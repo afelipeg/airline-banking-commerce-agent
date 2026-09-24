@@ -542,7 +542,7 @@ class MockQuasar(StorefrontBackend):
     def _card_disclosure(self, product: Product) -> Disclosure:
         a = product.attributes
         return Disclosure(
-            title=f"{product.title}: condiciones",
+            title=f"{card_title(_tier_of(product) or '')}: condiciones",
             product_id=product.product_id,
             rows=[
                 DisclosureRow(label="Cuota de manejo", value=f"${product.price:,.0f} al año"),
