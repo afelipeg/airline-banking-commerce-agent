@@ -107,8 +107,12 @@ Reference: `anthropics/commerce-agents` at `fd4d59224ab96b43c6dc6888207c67b3bd5a
   each tier also needing its minimum monthly income ($1,200 / $2,500 / $5,000);
   recommendation among approved tiers by travel profile. Protected attributes (gender,
   nationality, marital status) are never collected; age only feeds the 18+ rule. Each new
-  submission replaces the session's assessment. A future Jev (typesafe.ai) path plugs into
-  `CreditEngine`; the scorecard stays as the fallback.
+  submission replaces the session's assessment. Optional `JevCreditEngine`
+  (`airline/api/jev_engine.py`, `QUASAR_CREDIT_ENGINE=jev` + `TYPESAFE_API_KEY`,
+  `requirements-jev.txt`): Jev Scores shift the scorecard points within ±60, a Noul sends
+  inconsistent applications to review, and per-tier fit Scores pick the recommendation;
+  knock-outs, floors, and limits stay in code; any error, timeout, or low confidence returns
+  the scorecard decision (`fallback_used`). Off by default; the demo runs the scorecard.
 - Surfaces: storefront web, renderer mode `components`. Component table:
 
   | Component (tool) | Card |

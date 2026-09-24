@@ -1,0 +1,19 @@
+Quasar Airlines · Airfintech commerce agents
+Copyright 2026 Axiom-Nexar
+
+This product includes software developed by Anthropic PBC as part of
+anthropics/commerce-agents (https://github.com/anthropics/commerce-agents),
+licensed under the Apache License, Version 2.0:
+
+- the commerce-common, shopping-agent, and merchant-agent packages, installed from
+  that repository at commit fd4d59224ab96b43c6dc6888207c67b3bd5a24cf;
+- demo_common/ and web-shared/, vendored from its examples/ directory, with local
+  modifications described in CLAUDE.md;
+- airline/skills/, copied unchanged from its shopping-agent/skills and
+  merchant-agent/skills directories;
+- airline/api, airline/storefront-web, and airline/merchant-web started from its
+  examples/telecom vertical and were substantially rewritten.
+
+Files that carry an "Anthropic PBC" copyright header keep it. Quasar Airlines,
+Banco Andino Digital, and every person, product, and figure in the fixtures are
+fictional.

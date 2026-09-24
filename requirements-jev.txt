@@ -1,0 +1,3 @@
+# Optional: Jev (typesafe.ai) judgments in the credit engine (airline/api/jev_engine.py).
+-r requirements.txt
+typesafe-sdk==0.7.1

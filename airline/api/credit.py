@@ -221,11 +221,31 @@ def _fit_tier(application: CardApplication) -> Tier:
     return "classic"
 
 
-def _credit_limit(tier: Tier, score: int, income: float) -> int:
+def credit_limit(tier: Tier, score: int, income: float) -> int:
     factor = 2.5 if score >= 750 else 2.0 if score >= 700 else 1.5
     low, high = CREDIT_LIMIT_RANGE[tier]
     raw = min(high, max(low, income * factor))
     return int(round(raw / 100) * 100)
+
+
+def approve_tiers(score: int, income: float, reasons: list[Reason]) -> list[Tier]:
+    """The tiers a score and a monthly income qualify for; each tier the score reaches but
+    the income does not adds a reason. Shared by every engine so the floors live once."""
+    approved: list[Tier] = []
+    for tier in TIERS:
+        if score < TIER_SCORE_FLOOR[tier]:
+            continue
+        if income < MIN_MONTHLY_INCOME[tier]:
+            reasons.append(
+                Reason(
+                    code=f"INCOME_BELOW_{tier.upper()}",
+                    text=f"El ingreso no alcanza el mínimo de ${MIN_MONTHLY_INCOME[tier]:,.0f} para {tier.capitalize()}",
+                    effect="negative",
+                )
+            )
+            continue
+        approved.append(tier)
+    return approved
 
 
 class ScorecardEngine:
@@ -324,20 +344,7 @@ class ScorecardEngine:
             )
         score = min(points, 850)
 
-        approved: list[Tier] = []
-        for tier in TIERS:
-            if score < TIER_SCORE_FLOOR[tier]:
-                continue
-            if income < MIN_MONTHLY_INCOME[tier]:
-                reasons.append(
-                    Reason(
-                        code=f"INCOME_BELOW_{tier.upper()}",
-                        text=f"El ingreso no alcanza el mínimo de ${MIN_MONTHLY_INCOME[tier]:,.0f} para {tier.capitalize()}",
-                        effect="negative",
-                    )
-                )
-                continue
-            approved.append(tier)
+        approved = approve_tiers(score, income, reasons)
 
         if not approved:
             decision: Literal["approved", "review", "declined"] = (
@@ -361,7 +368,7 @@ class ScorecardEngine:
             score_band=_score_band_label(score),
             approved_tiers=approved,
             recommended_tier=recommended,
-            credit_limit_usd=_credit_limit(recommended, score, income),
+            credit_limit_usd=credit_limit(recommended, score, income),
             reasons=reasons,
             engine=self.name,
             decided_at=decided_at,

@@ -26,6 +26,7 @@ from .agent_config import build_shopping_config
 from .card_flow import build_card_extensions
 from .comparison import build_comparison_extension
 from .credit import CardApplication, CardApplicationSubmission
+from .jev_engine import build_credit_engine
 from .merchant import create_merchant_router
 from .mock_quasar import DATA_DIR, CardHeld, MockQuasar
 
@@ -33,7 +34,7 @@ SKILLS_DIR = DATA_DIR.parent / "skills"
 
 load_demo_env(DATA_DIR.parent)
 
-backend = MockQuasar()
+backend = MockQuasar(engine=build_credit_engine())
 agent = ShoppingAgent(
     backend=backend,
     skills_dir=SKILLS_DIR / "shopping",
