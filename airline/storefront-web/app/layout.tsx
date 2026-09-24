@@ -28,7 +28,8 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="es" className={`${barlow.variable} ${splineSansMono.variable}`}>
-      <body>
+      {/* Browser extensions (e.g. ColorZilla) add attributes to <body> before hydration. */}
+      <body suppressHydrationWarning>
         <div className="am-grid" aria-hidden />
         <div className="relative z-[2] h-full">
           {children}
