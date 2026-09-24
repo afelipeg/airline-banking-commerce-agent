@@ -1,0 +1,11 @@
+{
+  "demo-user": [
+    {"key": "seat_preference", "value": "prefiere asiento de pasillo, lo más adelante posible en la cabina", "category": "preference", "updated_at": "2026-07-14T13:05:00Z"},
+    {"key": "miami_checked_bag", "value": "en sus viajes a Miami siempre documenta una maleta de 23 kg", "category": "preference", "updated_at": "2026-08-19T22:40:00Z"},
+    {"key": "status_goal", "value": "quiere llegar al nivel Quasar Platinum; le gusta esperar el vuelo en la sala VIP", "category": "context", "updated_at": "2026-09-03T15:20:00Z"}
+  ],
+  "demo-user-2": [
+    {"key": "madrid_trip_budget", "value": "planea un viaje a Madrid en octubre con su pareja y es sensible al precio: compara tarifas antes de comprar", "category": "constraint", "updated_at": "2026-08-27T01:15:00Z"},
+    {"key": "miles_goal", "value": "quiere empezar a acumular millas Quasar para volar en Business algún día", "category": "context", "updated_at": "2026-09-15T18:30:00Z"}
+  ]
+}

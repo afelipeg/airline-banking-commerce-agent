@@ -1,0 +1,60 @@
+{
+  "_comment": "opened_at is shifted forward by whole weeks at load time, relative to dates_anchored_to (demo_common.merchant_fixtures.load_issues), the same shift merchant_metrics.json gets. Author the dates as if dates_anchored_to were today.",
+  "dates_anchored_to": "2026-09-23",
+  "issues": [
+    {
+      "issue_id": "QIS-901",
+      "order_id": "QA-58213",
+      "kind": "delayed",
+      "listing_id": "QA-0415",
+      "summary": "El vuelo QA-0415 MIA→BOG del 20 de septiembre salió con 3 h 40 min de retraso; el pasajero perdió su conexión a Cali y pide compensación",
+      "buyer_message_excerpt": "Llegamos a Bogotá casi a medianoche y el vuelo a Cali ya se había ido. Nadie nos dio hotel ni comida. Quiero saber qué compensación me corresponde por el retraso.",
+      "opened_at": "2026-09-21T13:25:00Z"
+    },
+    {
+      "issue_id": "QIS-902",
+      "order_id": "QA-57940",
+      "kind": "damaged",
+      "listing_id": "QA-ANC-101",
+      "summary": "Maleta prepagada de 23 kg entregada en Miami con una rueda y el asa rotas; el pasajero pide reposición",
+      "buyer_message_excerpt": "Pagué la maleta por adelantado y me la entregaron en la banda con una rueda arrancada y el asa partida. Tengo fotos. ¿Cómo hago el reclamo para que me la repongan?",
+      "opened_at": "2026-09-19T22:10:00Z"
+    },
+    {
+      "issue_id": "QIS-903",
+      "order_id": "QA-58377",
+      "kind": "buyer_message",
+      "listing_id": "QA-CARD-100",
+      "summary": "Un solicitante de la Tarjeta Quasar Visa pregunta por qué su solicitud quedó en revisión y cuánto tardará",
+      "buyer_message_excerpt": "Hice la solicitud de la Tarjeta Quasar Visa el lunes y me aparece 'en revisión'. ¿Qué significa? ¿Cuánto se demora y tengo que enviar algún documento?",
+      "opened_at": "2026-09-22T15:02:00Z"
+    },
+    {
+      "issue_id": "QIS-904",
+      "order_id": "QA-58102",
+      "kind": "buyer_message",
+      "listing_id": "QA-ANC-140",
+      "summary": "Cobro de wifi a bordo ($12) en el vuelo QA-0616 MAD→BOG del 17 de septiembre sin servicio en todo el trayecto; pide reembolso",
+      "buyer_message_excerpt": "Compré el wifi para trabajar durante el vuelo y nunca conectó, ni siquiera después de reiniciar. Me cobraron los 12 dólares igual. Pido el reembolso.",
+      "opened_at": "2026-09-18T09:40:00Z"
+    },
+    {
+      "issue_id": "QIS-905",
+      "order_id": "QA-57866",
+      "kind": "return_spike",
+      "listing_id": "QA-INS-300-BASIC",
+      "summary": "Nueve reembolsos de Quasar Protect Básico en 7 días: los clientes creían que cubría la cancelación del viaje",
+      "buyer_message_excerpt": "Compré el seguro pensando que si cancelaba el viaje me devolvían el tiquete. Ahora me dicen que el Básico no cubre cancelación. En ningún lado lo decía; quiero que me devuelvan los 18 dólares.",
+      "opened_at": "2026-09-20T17:40:00Z"
+    },
+    {
+      "issue_id": "QIS-906",
+      "order_id": "QA-58291",
+      "kind": "delayed",
+      "listing_id": "QA-0226",
+      "summary": "Tercera semana seguida con retrasos en el vuelo de la mañana QA-0226 MDE→BOG (55 min en promedio); un cliente corporativo evalúa cambiar de aerolínea",
+      "buyer_message_excerpt": "Tomo el vuelo de las 6 a. m. todas las semanas por trabajo y este mes no ha salido a tiempo ni una vez. Si sigue así, nuestra empresa va a mover los viajes a otra aerolínea.",
+      "opened_at": "2026-09-22T11:15:00Z"
+    }
+  ]
+}

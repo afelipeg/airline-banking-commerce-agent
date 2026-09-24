@@ -1,0 +1,1611 @@
+{
+  "store_name": "Quasar Airlines",
+  "products": [
+    {
+      "product_id": "QA-0412",
+      "title": "Bogotá → Miami · QA 412 · 16 oct",
+      "brand": "Quasar Airlines",
+      "price": 289.0,
+      "currency": "USD",
+      "rating": 4.6,
+      "review_count": 2140,
+      "category": "flights",
+      "labels": [
+        "Directo",
+        "Llega antes del mediodía"
+      ],
+      "attributes": {
+        "flight_number": "QA 412",
+        "origin": "BOG",
+        "destination": "MIA",
+        "origin_city": "Bogotá",
+        "destination_city": "Miami",
+        "travel_date": "2026-10-16",
+        "departure_time": "07:10",
+        "arrival_time": "11:25",
+        "duration": "3 h 15 min",
+        "stops": "directo",
+        "aircraft": "A321neo",
+        "price_unit": "per_passenger_one_way",
+        "price_qualifier": "por pasajero, solo ida, tasas incluidas",
+        "installments": "Hasta 12 cuotas con Quasar Pay · 3 a 12 sin interés con tarjeta Quasar"
+      },
+      "in_stock": true,
+      "short_description": "El vuelo de la mañana a Miami: sales de Bogotá a las 7:10 y aterrizas a las 11:25, con la tarde libre para trabajar.",
+      "long_description": "El QA 412 es el vuelo preferido de quienes viajan a Miami por trabajo: despega temprano de El Dorado y llega antes del mediodía, así que la tarde queda libre para reuniones. Opera con un A321neo de cabina silenciosa, con USB-C en todas las sillas y entretenimiento en tu propio dispositivo. Economy incluye un artículo personal y equipaje de mano de 10 kg; la maleta documentada se compra aparte. Premium suma una maleta de 23 kg, asiento estándar incluido, embarque prioritario y cambios sin cargo. Business agrega dos maletas, acceso a Quasar Lounge en Bogotá, cambios sin cargo y tarifa reembolsable.",
+      "specs": {
+        "equipaje": "mano de 10 kg en todas las cabinas; maletas de 23 kg: 0 en Economy, 1 en Premium, 2 en Business",
+        "comida": "Economy: snack y bebida · Premium: desayuno caliente · Business: desayuno a la carta",
+        "entretenimiento": "streaming a tu celular o tablet y USB-C en cada silla",
+        "wifi": "disponible por $12 el vuelo completo",
+        "cabina": "Business 2-2 con reclinación amplia · Premium en las primeras filas · Economy 3-3"
+      },
+      "review_highlights": [
+        "Llego a Miami con tiempo de sobra para una reunión a las 2",
+        "Madrugar cuesta, pero el vuelo casi siempre sale puntual",
+        "En Economy la maleta va aparte: cómprala en línea, en el aeropuerto sale más cara"
+      ],
+      "variants": [
+        {
+          "product_id": "QA-0412-ECO",
+          "option_values": {
+            "cabin": "economy"
+          },
+          "price": 289.0,
+          "attributes": {
+            "cabin": "economy",
+            "checked_bags": "0",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "con costo",
+            "changes": "cargo de $75 + diferencia",
+            "refundable": "no",
+            "miles_earned": "1,200",
+            "lounge_access": "no",
+            "priority_boarding": "no",
+            "seats_left": "41"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-0412-PRE",
+          "option_values": {
+            "cabin": "premium"
+          },
+          "price": 489.0,
+          "attributes": {
+            "cabin": "premium",
+            "checked_bags": "1",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "estándar incluida",
+            "changes": "sin cargo + diferencia",
+            "refundable": "no",
+            "miles_earned": "1,800",
+            "lounge_access": "no",
+            "priority_boarding": "sí",
+            "seats_left": "3"
+          },
+          "in_stock": true,
+          "labels": [
+            "Últimas 3 sillas"
+          ]
+        },
+        {
+          "product_id": "QA-0412-BUS",
+          "option_values": {
+            "cabin": "business"
+          },
+          "price": 1090.0,
+          "attributes": {
+            "cabin": "business",
+            "checked_bags": "2",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "incluida",
+            "changes": "sin cargo",
+            "refundable": "sí",
+            "miles_earned": "3,000",
+            "lounge_access": "sí",
+            "priority_boarding": "sí",
+            "seats_left": "6"
+          },
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "product_id": "QA-0418",
+      "title": "Bogotá → Miami · QA 418 · 16 oct",
+      "brand": "Quasar Airlines",
+      "price": 249.0,
+      "currency": "USD",
+      "rating": 4.3,
+      "review_count": 1385,
+      "category": "flights",
+      "labels": [
+        "Directo",
+        "Más económico del día",
+        "Business agotada"
+      ],
+      "attributes": {
+        "flight_number": "QA 418",
+        "origin": "BOG",
+        "destination": "MIA",
+        "origin_city": "Bogotá",
+        "destination_city": "Miami",
+        "travel_date": "2026-10-16",
+        "departure_time": "18:45",
+        "arrival_time": "23:00",
+        "duration": "3 h 15 min",
+        "stops": "directo",
+        "aircraft": "A320neo",
+        "price_unit": "per_passenger_one_way",
+        "price_qualifier": "por pasajero, solo ida, tasas incluidas",
+        "installments": "Hasta 12 cuotas con Quasar Pay · 3 a 12 sin interés con tarjeta Quasar"
+      },
+      "in_stock": true,
+      "short_description": "La salida de la tarde a Miami, con la tarifa Economy más baja del día; Business está agotada en este vuelo.",
+      "long_description": "El QA 418 sale de Bogotá a las 18:45 y aterriza en Miami a las 23:00: aprovechas el día completo en la oficina y duermes en destino. Es la opción más económica de la ruta ese día en Economy y en Premium. La cabina Business está agotada; si la necesitas, el QA 412 de la mañana es la alternativa del mismo día. Opera con un A320neo con USB-C en todas las sillas. Economy incluye un artículo personal y equipaje de mano de 10 kg; Premium suma una maleta de 23 kg, asiento estándar incluido, embarque prioritario y cambios sin cargo.",
+      "specs": {
+        "equipaje": "mano de 10 kg en todas las cabinas; maletas de 23 kg: 0 en Economy, 1 en Premium, 2 en Business",
+        "comida": "Economy: snack y bebida · Premium y Business: cena caliente",
+        "entretenimiento": "streaming a tu celular o tablet y USB-C en cada silla",
+        "wifi": "disponible por $12 el vuelo completo",
+        "cabina": "Business 2-2 con reclinación amplia · Premium en las primeras filas · Economy 3-3"
+      },
+      "review_highlights": [
+        "Perfecto para salir después del trabajo; llegué al hotel antes de la medianoche",
+        "La tarifa más baja que encontré para Miami ese día",
+        "Llega tarde: si alguien te recoge, avísale que migración puede tomar un rato"
+      ],
+      "variants": [
+        {
+          "product_id": "QA-0418-ECO",
+          "option_values": {
+            "cabin": "economy"
+          },
+          "price": 249.0,
+          "attributes": {
+            "cabin": "economy",
+            "checked_bags": "0",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "con costo",
+            "changes": "cargo de $75 + diferencia",
+            "refundable": "no",
+            "miles_earned": "1,200",
+            "lounge_access": "no",
+            "priority_boarding": "no",
+            "seats_left": "52"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-0418-PRE",
+          "option_values": {
+            "cabin": "premium"
+          },
+          "price": 449.0,
+          "attributes": {
+            "cabin": "premium",
+            "checked_bags": "1",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "estándar incluida",
+            "changes": "sin cargo + diferencia",
+            "refundable": "no",
+            "miles_earned": "1,800",
+            "lounge_access": "no",
+            "priority_boarding": "sí",
+            "seats_left": "11"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-0418-BUS",
+          "option_values": {
+            "cabin": "business"
+          },
+          "price": 990.0,
+          "attributes": {
+            "cabin": "business",
+            "checked_bags": "2",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "incluida",
+            "changes": "sin cargo",
+            "refundable": "sí",
+            "miles_earned": "3,000",
+            "lounge_access": "sí",
+            "priority_boarding": "sí",
+            "seats_left": "0"
+          },
+          "labels": [
+            "Agotado"
+          ],
+          "in_stock": false
+        }
+      ]
+    },
+    {
+      "product_id": "QA-0415",
+      "title": "Miami → Bogotá · QA 415 · 20 oct",
+      "brand": "Quasar Airlines",
+      "price": 269.0,
+      "currency": "USD",
+      "rating": 4.5,
+      "review_count": 1720,
+      "category": "flights",
+      "labels": [
+        "Directo",
+        "Regreso sin madrugar"
+      ],
+      "attributes": {
+        "flight_number": "QA 415",
+        "origin": "MIA",
+        "destination": "BOG",
+        "origin_city": "Miami",
+        "destination_city": "Bogotá",
+        "travel_date": "2026-10-20",
+        "departure_time": "13:30",
+        "arrival_time": "16:50",
+        "duration": "4 h 20 min",
+        "stops": "directo",
+        "aircraft": "A321neo",
+        "price_unit": "per_passenger_one_way",
+        "price_qualifier": "por pasajero, solo ida, tasas incluidas",
+        "installments": "Hasta 12 cuotas con Quasar Pay · 3 a 12 sin interés con tarjeta Quasar"
+      },
+      "in_stock": true,
+      "short_description": "El regreso de Miami a Bogotá a media tarde: sin madrugar y en casa antes de las 5.",
+      "long_description": "El QA 415 sale de Miami a la 1:30 de la tarde, después del check-out del hotel, y aterriza en El Dorado a las 16:50 hora de Bogotá. Es el regreso natural de los vuelos QA 412 y QA 418. Opera con un A321neo con USB-C en todas las sillas y almuerzo caliente en Premium y Business. Economy incluye un artículo personal y equipaje de mano de 10 kg; Premium suma una maleta de 23 kg, asiento estándar incluido, embarque prioritario y cambios sin cargo. Business agrega dos maletas, acceso a Quasar Lounge en Miami y tarifa reembolsable.",
+      "specs": {
+        "equipaje": "mano de 10 kg en todas las cabinas; maletas de 23 kg: 0 en Economy, 1 en Premium, 2 en Business",
+        "comida": "Economy: snack y bebida · Premium y Business: almuerzo caliente",
+        "entretenimiento": "streaming a tu celular o tablet y USB-C en cada silla",
+        "wifi": "disponible por $12 el vuelo completo",
+        "cabina": "Business 2-2 con reclinación amplia · Premium en las primeras filas · Economy 3-3"
+      },
+      "review_highlights": [
+        "Salir a la 1:30 me deja desayunar con calma y llegar sin afanes",
+        "La sala Quasar de Miami tiene duchas, un lujo después de una semana de trabajo",
+        "El regreso se siente un poco más largo que la ida"
+      ],
+      "variants": [
+        {
+          "product_id": "QA-0415-ECO",
+          "option_values": {
+            "cabin": "economy"
+          },
+          "price": 269.0,
+          "attributes": {
+            "cabin": "economy",
+            "checked_bags": "0",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "con costo",
+            "changes": "cargo de $75 + diferencia",
+            "refundable": "no",
+            "miles_earned": "1,200",
+            "lounge_access": "no",
+            "priority_boarding": "no",
+            "seats_left": "58"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-0415-PRE",
+          "option_values": {
+            "cabin": "premium"
+          },
+          "price": 469.0,
+          "attributes": {
+            "cabin": "premium",
+            "checked_bags": "1",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "estándar incluida",
+            "changes": "sin cargo + diferencia",
+            "refundable": "no",
+            "miles_earned": "1,800",
+            "lounge_access": "no",
+            "priority_boarding": "sí",
+            "seats_left": "10"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-0415-BUS",
+          "option_values": {
+            "cabin": "business"
+          },
+          "price": 1040.0,
+          "attributes": {
+            "cabin": "business",
+            "checked_bags": "2",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "incluida",
+            "changes": "sin cargo",
+            "refundable": "sí",
+            "miles_earned": "3,000",
+            "lounge_access": "sí",
+            "priority_boarding": "sí",
+            "seats_left": "7"
+          },
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "product_id": "QA-0615",
+      "title": "Bogotá → Madrid · QA 615 · 22 oct",
+      "brand": "Quasar Airlines",
+      "price": 689.0,
+      "currency": "USD",
+      "rating": 4.7,
+      "review_count": 964,
+      "category": "flights",
+      "labels": [
+        "Directo",
+        "Vuelo nocturno",
+        "Últimas 2 sillas en Business"
+      ],
+      "attributes": {
+        "flight_number": "QA 615",
+        "origin": "BOG",
+        "destination": "MAD",
+        "origin_city": "Bogotá",
+        "destination_city": "Madrid",
+        "travel_date": "2026-10-22",
+        "departure_time": "21:30",
+        "arrival_time": "14:20 +1",
+        "duration": "9 h 50 min",
+        "stops": "directo",
+        "aircraft": "787-9",
+        "price_unit": "per_passenger_one_way",
+        "price_qualifier": "por pasajero, solo ida, tasas incluidas",
+        "installments": "Hasta 12 cuotas con Quasar Pay · 3 a 12 sin interés con tarjeta Quasar"
+      },
+      "in_stock": true,
+      "short_description": "Directo nocturno a Madrid: cenas, duermes y aterrizas en Barajas a las 14:20 del día siguiente.",
+      "long_description": "El QA 615 cruza el Atlántico de noche en un 787-9, con ventanas grandes y una cabina más cómoda para las 9 h 50 min de vuelo. Todas las cabinas tienen pantalla personal, cena y desayuno antes de aterrizar. Economy incluye un artículo personal y equipaje de mano de 10 kg; Premium suma una maleta de 23 kg, asiento estándar con más espacio para las piernas, embarque prioritario y cambios sin cargo. Business ofrece silla-cama totalmente plana con acceso directo al pasillo, dos maletas, Quasar Lounge en Bogotá y tarifa reembolsable. Llegas a Madrid a primera hora de la tarde, a tiempo para ajustarte al horario local.",
+      "specs": {
+        "equipaje": "mano de 10 kg en todas las cabinas; maletas de 23 kg: 0 en Economy, 1 en Premium, 2 en Business",
+        "comida": "cena y desayuno en todas las cabinas; menú a la carta y vinos en Business",
+        "entretenimiento": "pantalla personal con películas, series y música en español en todas las sillas",
+        "wifi": "disponible por $12 el vuelo completo",
+        "cabina": "Business 1-2-1 con cama plana · Premium 2-3-2 · Economy 3-3-3"
+      },
+      "review_highlights": [
+        "Dormí casi seis horas en Business y llegué a Madrid como nueva",
+        "Buena comida para ser Economy; el desayuno antes de aterrizar se agradece",
+        "Business se llena rápido en temporada: si la quieres, no esperes"
+      ],
+      "variants": [
+        {
+          "product_id": "QA-0615-ECO",
+          "option_values": {
+            "cabin": "economy"
+          },
+          "price": 689.0,
+          "attributes": {
+            "cabin": "economy",
+            "checked_bags": "0",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "con costo",
+            "changes": "cargo de $75 + diferencia",
+            "refundable": "no",
+            "miles_earned": "4,000",
+            "lounge_access": "no",
+            "priority_boarding": "no",
+            "seats_left": "64"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-0615-PRE",
+          "option_values": {
+            "cabin": "premium"
+          },
+          "price": 1190.0,
+          "attributes": {
+            "cabin": "premium",
+            "checked_bags": "1",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "estándar incluida",
+            "changes": "sin cargo + diferencia",
+            "refundable": "no",
+            "miles_earned": "6,000",
+            "lounge_access": "no",
+            "priority_boarding": "sí",
+            "seats_left": "12"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-0615-BUS",
+          "option_values": {
+            "cabin": "business"
+          },
+          "price": 2890.0,
+          "attributes": {
+            "cabin": "business",
+            "checked_bags": "2",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "incluida",
+            "changes": "sin cargo",
+            "refundable": "sí",
+            "miles_earned": "10,000",
+            "lounge_access": "sí",
+            "priority_boarding": "sí",
+            "seats_left": "2"
+          },
+          "labels": [
+            "Últimas 2 sillas"
+          ],
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "product_id": "QA-0616",
+      "title": "Madrid → Bogotá · QA 616 · 2 nov",
+      "brand": "Quasar Airlines",
+      "price": 719.0,
+      "currency": "USD",
+      "rating": 4.6,
+      "review_count": 812,
+      "category": "flights",
+      "labels": [
+        "Directo",
+        "Vuelo diurno"
+      ],
+      "attributes": {
+        "flight_number": "QA 616",
+        "origin": "MAD",
+        "destination": "BOG",
+        "origin_city": "Madrid",
+        "destination_city": "Bogotá",
+        "travel_date": "2026-11-02",
+        "departure_time": "12:15",
+        "arrival_time": "16:05",
+        "duration": "9 h 50 min",
+        "stops": "directo",
+        "aircraft": "787-9",
+        "price_unit": "per_passenger_one_way",
+        "price_qualifier": "por pasajero, solo ida, tasas incluidas",
+        "installments": "Hasta 12 cuotas con Quasar Pay · 3 a 12 sin interés con tarjeta Quasar"
+      },
+      "in_stock": true,
+      "short_description": "Regreso diurno de Madrid a Bogotá: sales al mediodía y aterrizas a las 16:05, sin noche en el avión.",
+      "long_description": "El QA 616 despega de Barajas a las 12:15 y llega a Bogotá a las 16:05 hora local, así que duermes en tu cama esa misma noche. Opera con un 787-9 con pantalla personal en todas las sillas, almuerzo y merienda a bordo. Economy incluye un artículo personal y equipaje de mano de 10 kg; Premium suma una maleta de 23 kg, asiento estándar con más espacio, embarque prioritario y cambios sin cargo. Business ofrece silla-cama plana con acceso directo al pasillo, dos maletas, sala VIP aliada en Madrid y tarifa reembolsable.",
+      "specs": {
+        "equipaje": "mano de 10 kg en todas las cabinas; maletas de 23 kg: 0 en Economy, 1 en Premium, 2 en Business",
+        "comida": "almuerzo y merienda en todas las cabinas; menú a la carta en Business",
+        "entretenimiento": "pantalla personal con películas, series y música en español en todas las sillas",
+        "wifi": "disponible por $12 el vuelo completo",
+        "cabina": "Business 1-2-1 con cama plana · Premium 2-3-2 · Economy 3-3-3"
+      },
+      "review_highlights": [
+        "Volar de día ayuda muchísimo con el jet lag de regreso",
+        "Las pantallas tienen bastante contenido en español",
+        "Llega en la tarde: el tráfico para salir de El Dorado puede ser pesado"
+      ],
+      "variants": [
+        {
+          "product_id": "QA-0616-ECO",
+          "option_values": {
+            "cabin": "economy"
+          },
+          "price": 719.0,
+          "attributes": {
+            "cabin": "economy",
+            "checked_bags": "0",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "con costo",
+            "changes": "cargo de $75 + diferencia",
+            "refundable": "no",
+            "miles_earned": "4,000",
+            "lounge_access": "no",
+            "priority_boarding": "no",
+            "seats_left": "96"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-0616-PRE",
+          "option_values": {
+            "cabin": "premium"
+          },
+          "price": 1240.0,
+          "attributes": {
+            "cabin": "premium",
+            "checked_bags": "1",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "estándar incluida",
+            "changes": "sin cargo + diferencia",
+            "refundable": "no",
+            "miles_earned": "6,000",
+            "lounge_access": "no",
+            "priority_boarding": "sí",
+            "seats_left": "15"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-0616-BUS",
+          "option_values": {
+            "cabin": "business"
+          },
+          "price": 2950.0,
+          "attributes": {
+            "cabin": "business",
+            "checked_bags": "2",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "incluida",
+            "changes": "sin cargo",
+            "refundable": "sí",
+            "miles_earned": "10,000",
+            "lounge_access": "sí",
+            "priority_boarding": "sí",
+            "seats_left": "11"
+          },
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "product_id": "QA-0226",
+      "title": "Medellín → Bogotá · QA 226 · 9 oct",
+      "brand": "Quasar Airlines",
+      "price": 79.0,
+      "currency": "USD",
+      "rating": 4.4,
+      "review_count": 3050,
+      "category": "flights",
+      "labels": [
+        "Directo",
+        "Primer vuelo del día"
+      ],
+      "attributes": {
+        "flight_number": "QA 226",
+        "origin": "MDE",
+        "destination": "BOG",
+        "origin_city": "Medellín",
+        "destination_city": "Bogotá",
+        "travel_date": "2026-10-09",
+        "departure_time": "06:00",
+        "arrival_time": "06:55",
+        "duration": "55 min",
+        "stops": "directo",
+        "aircraft": "A320neo",
+        "price_unit": "per_passenger_one_way",
+        "price_qualifier": "por pasajero, solo ida, tasas incluidas",
+        "installments": "Hasta 12 cuotas con Quasar Pay · 3 a 12 sin interés con tarjeta Quasar"
+      },
+      "in_stock": true,
+      "short_description": "El primer vuelo del día de Medellín a Bogotá: 55 minutos y estás en El Dorado antes de las 7.",
+      "long_description": "El QA 226 despega del aeropuerto José María Córdova a las 6:00 y aterriza en Bogotá a las 6:55, ideal para una reunión temprano en la capital o para conectar con vuelos de media mañana. Opera con un A320neo. Economy incluye un artículo personal y equipaje de mano de 10 kg; Premium suma una maleta de 23 kg, asiento estándar incluido, embarque prioritario y cambios sin cargo; Business, en las primeras filas, agrega dos maletas, acceso a Quasar Lounge en Medellín y tarifa reembolsable.",
+      "specs": {
+        "equipaje": "mano de 10 kg en todas las cabinas; maletas de 23 kg: 0 en Economy, 1 en Premium, 2 en Business",
+        "comida": "café, bebida y snack en todas las cabinas",
+        "entretenimiento": "sin entretenimiento a bordo por la duración del vuelo",
+        "wifi": "disponible por $12 el vuelo completo",
+        "puntualidad": "92 % de salidas a tiempo en los últimos 3 meses"
+      },
+      "review_highlights": [
+        "Salgo a las 6 y a las 8 ya estoy en la oficina en Bogotá",
+        "Es temprano, pero casi nunca se retrasa",
+        "Mucho mejor que perder el día en carretera"
+      ],
+      "variants": [
+        {
+          "product_id": "QA-0226-ECO",
+          "option_values": {
+            "cabin": "economy"
+          },
+          "price": 79.0,
+          "attributes": {
+            "cabin": "economy",
+            "checked_bags": "0",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "con costo",
+            "changes": "cargo de $75 + diferencia",
+            "refundable": "no",
+            "miles_earned": "250",
+            "lounge_access": "no",
+            "priority_boarding": "no",
+            "seats_left": "34"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-0226-PRE",
+          "option_values": {
+            "cabin": "premium"
+          },
+          "price": 129.0,
+          "attributes": {
+            "cabin": "premium",
+            "checked_bags": "1",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "estándar incluida",
+            "changes": "sin cargo + diferencia",
+            "refundable": "no",
+            "miles_earned": "375",
+            "lounge_access": "no",
+            "priority_boarding": "sí",
+            "seats_left": "8"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-0226-BUS",
+          "option_values": {
+            "cabin": "business"
+          },
+          "price": 219.0,
+          "attributes": {
+            "cabin": "business",
+            "checked_bags": "2",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "incluida",
+            "changes": "sin cargo",
+            "refundable": "sí",
+            "miles_earned": "625",
+            "lounge_access": "sí",
+            "priority_boarding": "sí",
+            "seats_left": "5"
+          },
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "product_id": "QA-0331",
+      "title": "Bogotá → Cancún · QA 331 · 6 nov",
+      "brand": "Quasar Airlines",
+      "price": 319.0,
+      "currency": "USD",
+      "rating": 4.5,
+      "review_count": 690,
+      "category": "flights",
+      "labels": [
+        "Directo",
+        "Destino de playa"
+      ],
+      "attributes": {
+        "flight_number": "QA 331",
+        "origin": "BOG",
+        "destination": "CUN",
+        "origin_city": "Bogotá",
+        "destination_city": "Cancún",
+        "travel_date": "2026-11-06",
+        "departure_time": "09:20",
+        "arrival_time": "13:05",
+        "duration": "3 h 45 min",
+        "stops": "directo",
+        "aircraft": "A320neo",
+        "price_unit": "per_passenger_one_way",
+        "price_qualifier": "por pasajero, solo ida, tasas incluidas",
+        "installments": "Hasta 12 cuotas con Quasar Pay · 3 a 12 sin interés con tarjeta Quasar"
+      },
+      "in_stock": true,
+      "short_description": "Directo de Bogotá a Cancún a media mañana: aterrizas a la 1 de la tarde, con el primer día de playa asegurado.",
+      "long_description": "El QA 331 sale de Bogotá a las 9:20, sin madrugones, y llega a Cancún a las 13:05, a tiempo para registrarte en el hotel y bajar a la playa. Opera con un A320neo con USB-C en todas las sillas y streaming a tu dispositivo. Economy incluye un artículo personal y equipaje de mano de 10 kg: si viajas con maleta de playa, agrégala en línea antes del vuelo. Premium suma una maleta de 23 kg, asiento estándar incluido, embarque prioritario y cambios sin cargo; Business agrega dos maletas, Quasar Lounge en Bogotá y tarifa reembolsable.",
+      "specs": {
+        "equipaje": "mano de 10 kg en todas las cabinas; maletas de 23 kg: 0 en Economy, 1 en Premium, 2 en Business",
+        "comida": "Economy: snack y bebida · Premium y Business: almuerzo caliente",
+        "entretenimiento": "streaming a tu celular o tablet y USB-C en cada silla",
+        "wifi": "disponible por $12 el vuelo completo",
+        "cabina": "Business 2-2 con reclinación amplia · Premium en las primeras filas · Economy 3-3"
+      },
+      "review_highlights": [
+        "Salida a una hora civilizada y llegada con todo el día por delante",
+        "Lo tomamos para la luna de miel; Premium valió la pena por la maleta incluida",
+        "En temporada alta se llena, compra con tiempo"
+      ],
+      "variants": [
+        {
+          "product_id": "QA-0331-ECO",
+          "option_values": {
+            "cabin": "economy"
+          },
+          "price": 319.0,
+          "attributes": {
+            "cabin": "economy",
+            "checked_bags": "0",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "con costo",
+            "changes": "cargo de $75 + diferencia",
+            "refundable": "no",
+            "miles_earned": "1,200",
+            "lounge_access": "no",
+            "priority_boarding": "no",
+            "seats_left": "88"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-0331-PRE",
+          "option_values": {
+            "cabin": "premium"
+          },
+          "price": 529.0,
+          "attributes": {
+            "cabin": "premium",
+            "checked_bags": "1",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "estándar incluida",
+            "changes": "sin cargo + diferencia",
+            "refundable": "no",
+            "miles_earned": "1,800",
+            "lounge_access": "no",
+            "priority_boarding": "sí",
+            "seats_left": "14"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-0331-BUS",
+          "option_values": {
+            "cabin": "business"
+          },
+          "price": 1190.0,
+          "attributes": {
+            "cabin": "business",
+            "checked_bags": "2",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "incluida",
+            "changes": "sin cargo",
+            "refundable": "sí",
+            "miles_earned": "3,000",
+            "lounge_access": "sí",
+            "priority_boarding": "sí",
+            "seats_left": "8"
+          },
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "product_id": "QA-0507",
+      "title": "Bogotá → Lima · QA 507 · 28 oct",
+      "brand": "Quasar Airlines",
+      "price": 219.0,
+      "currency": "USD",
+      "rating": 4.2,
+      "review_count": 410,
+      "category": "flights",
+      "labels": [
+        "Directo",
+        "Amplia disponibilidad"
+      ],
+      "attributes": {
+        "flight_number": "QA 507",
+        "origin": "BOG",
+        "destination": "LIM",
+        "origin_city": "Bogotá",
+        "destination_city": "Lima",
+        "travel_date": "2026-10-28",
+        "departure_time": "14:40",
+        "arrival_time": "17:55",
+        "duration": "3 h 15 min",
+        "stops": "directo",
+        "aircraft": "A320neo",
+        "price_unit": "per_passenger_one_way",
+        "price_qualifier": "por pasajero, solo ida, tasas incluidas",
+        "installments": "Hasta 12 cuotas con Quasar Pay · 3 a 12 sin interés con tarjeta Quasar"
+      },
+      "in_stock": true,
+      "short_description": "Directo de Bogotá a Lima por la tarde: aterrizas a las 17:55, a tiempo para cenar en Miraflores.",
+      "long_description": "El QA 507 sale de Bogotá a las 14:40 y llega a Lima a las 17:55, sin diferencia horaria que ajustar. Tiene buena disponibilidad en todas las cabinas, así que suele ser fácil elegir asiento o pasarte a Premium. Opera con un A320neo con USB-C en todas las sillas. Economy incluye un artículo personal y equipaje de mano de 10 kg; Premium suma una maleta de 23 kg, asiento estándar incluido, embarque prioritario y cambios sin cargo; Business agrega dos maletas, Quasar Lounge en Bogotá y tarifa reembolsable.",
+      "specs": {
+        "equipaje": "mano de 10 kg en todas las cabinas; maletas de 23 kg: 0 en Economy, 1 en Premium, 2 en Business",
+        "comida": "Economy: snack y bebida · Premium y Business: comida caliente",
+        "entretenimiento": "streaming a tu celular o tablet y USB-C en cada silla",
+        "wifi": "disponible por $12 el vuelo completo",
+        "cabina": "Business 2-2 con reclinación amplia · Premium en las primeras filas · Economy 3-3"
+      },
+      "review_highlights": [
+        "Vuelo tranquilo, con varias filas libres",
+        "Llegué a Lima con tiempo para salir a cenar",
+        "Fácil conseguir pasillo, incluso comprando tarde"
+      ],
+      "variants": [
+        {
+          "product_id": "QA-0507-ECO",
+          "option_values": {
+            "cabin": "economy"
+          },
+          "price": 219.0,
+          "attributes": {
+            "cabin": "economy",
+            "checked_bags": "0",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "con costo",
+            "changes": "cargo de $75 + diferencia",
+            "refundable": "no",
+            "miles_earned": "950",
+            "lounge_access": "no",
+            "priority_boarding": "no",
+            "seats_left": "124"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-0507-PRE",
+          "option_values": {
+            "cabin": "premium"
+          },
+          "price": 389.0,
+          "attributes": {
+            "cabin": "premium",
+            "checked_bags": "1",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "estándar incluida",
+            "changes": "sin cargo + diferencia",
+            "refundable": "no",
+            "miles_earned": "1,400",
+            "lounge_access": "no",
+            "priority_boarding": "sí",
+            "seats_left": "21"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-0507-BUS",
+          "option_values": {
+            "cabin": "business"
+          },
+          "price": 890.0,
+          "attributes": {
+            "cabin": "business",
+            "checked_bags": "2",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "incluida",
+            "changes": "sin cargo",
+            "refundable": "sí",
+            "miles_earned": "2,400",
+            "lounge_access": "sí",
+            "priority_boarding": "sí",
+            "seats_left": "5"
+          },
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "product_id": "QA-0720",
+      "title": "Bogotá → Nueva York · QA 720 · 12 nov",
+      "brand": "Quasar Airlines",
+      "price": 459.0,
+      "currency": "USD",
+      "rating": 4.4,
+      "review_count": 575,
+      "category": "flights",
+      "labels": [
+        "Directo",
+        "Vuelo nocturno",
+        "Llega temprano a Nueva York"
+      ],
+      "attributes": {
+        "flight_number": "QA 720",
+        "origin": "BOG",
+        "destination": "JFK",
+        "origin_city": "Bogotá",
+        "destination_city": "Nueva York",
+        "travel_date": "2026-11-12",
+        "departure_time": "23:55",
+        "arrival_time": "06:10 +1",
+        "duration": "6 h 15 min",
+        "stops": "directo",
+        "aircraft": "787-8",
+        "price_unit": "per_passenger_one_way",
+        "price_qualifier": "por pasajero, solo ida, tasas incluidas",
+        "installments": "Hasta 12 cuotas con Quasar Pay · 3 a 12 sin interés con tarjeta Quasar"
+      },
+      "in_stock": true,
+      "short_description": "Nocturno directo a Nueva York: sales a las 23:55 y aterrizas en JFK a las 6:10, con el día por delante.",
+      "long_description": "El QA 720 despega de Bogotá a las 23:55 y llega a Nueva York a las 6:10, así que aprovechas el día de salida en Bogotá y el de llegada en Manhattan. Opera con un 787-8 con pantalla personal en todas las sillas y desayuno antes de aterrizar. Economy incluye un artículo personal y equipaje de mano de 10 kg; Premium suma una maleta de 23 kg, asiento estándar con más espacio, embarque prioritario y cambios sin cargo. Business ofrece silla-cama plana para dormir las 6 h 15 min de vuelo, dos maletas, Quasar Lounge en Bogotá y tarifa reembolsable.",
+      "specs": {
+        "equipaje": "mano de 10 kg en todas las cabinas; maletas de 23 kg: 0 en Economy, 1 en Premium, 2 en Business",
+        "comida": "bebida al despegar y desayuno antes de aterrizar; desayuno a la carta en Business",
+        "entretenimiento": "pantalla personal con películas, series y música en español en todas las sillas",
+        "wifi": "disponible por $12 el vuelo completo",
+        "cabina": "Business 1-2-1 con cama plana · Premium 2-3-2 · Economy 3-3-3"
+      },
+      "review_highlights": [
+        "En Business se duerme bien; llegué directo a una reunión",
+        "En Economy cuesta dormir, pero el desayuno ayuda",
+        "Llegar a las 6 significa migración rápida en JFK"
+      ],
+      "variants": [
+        {
+          "product_id": "QA-0720-ECO",
+          "option_values": {
+            "cabin": "economy"
+          },
+          "price": 459.0,
+          "attributes": {
+            "cabin": "economy",
+            "checked_bags": "0",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "con costo",
+            "changes": "cargo de $75 + diferencia",
+            "refundable": "no",
+            "miles_earned": "2,000",
+            "lounge_access": "no",
+            "priority_boarding": "no",
+            "seats_left": "112"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-0720-PRE",
+          "option_values": {
+            "cabin": "premium"
+          },
+          "price": 789.0,
+          "attributes": {
+            "cabin": "premium",
+            "checked_bags": "1",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "estándar incluida",
+            "changes": "sin cargo + diferencia",
+            "refundable": "no",
+            "miles_earned": "3,000",
+            "lounge_access": "no",
+            "priority_boarding": "sí",
+            "seats_left": "16"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-0720-BUS",
+          "option_values": {
+            "cabin": "business"
+          },
+          "price": 1890.0,
+          "attributes": {
+            "cabin": "business",
+            "checked_bags": "2",
+            "carry_on": "1 x 10 kg",
+            "seat_selection": "incluida",
+            "changes": "sin cargo",
+            "refundable": "sí",
+            "miles_earned": "5,000",
+            "lounge_access": "sí",
+            "priority_boarding": "sí",
+            "seats_left": "14"
+          },
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "product_id": "QA-ANC-101",
+      "title": "Maleta documentada 23 kg",
+      "brand": "Quasar Airlines",
+      "price": 45.0,
+      "currency": "USD",
+      "rating": 4.4,
+      "review_count": 5210,
+      "category": "ancillaries",
+      "labels": [
+        "Más barata en línea que en el aeropuerto"
+      ],
+      "attributes": {
+        "price_unit": "per_segment",
+        "price_qualifier": "por maleta, por trayecto",
+        "weight_limit_kg": "23",
+        "max_linear_cm": "158",
+        "purchase_deadline": "hasta 3 horas antes del vuelo",
+        "airport_price_usd": "65",
+        "max_per_passenger": "3"
+      },
+      "in_stock": true,
+      "short_description": "Agrega a tu reserva una maleta de hasta 23 kg: en línea cuesta menos que en el aeropuerto.",
+      "long_description": "Economy incluye solo equipaje de mano de 10 kg; con esta maleta documentada llevas hasta 23 kg más en bodega, con medidas de hasta 158 cm lineales (largo + ancho + alto). Se compra por trayecto: para un viaje de ida y regreso necesitas dos. Comprándola en línea hasta 3 horas antes del vuelo pagas menos que en el counter del aeropuerto. Premium y Business ya incluyen maletas, y la tarjeta Quasar Visa Gold o Platinum también, cuando el tiquete se paga con ella.",
+      "specs": {
+        "medidas": "hasta 158 cm lineales",
+        "peso": "hasta 23 kg; de 23 a 32 kg aplica exceso de peso",
+        "incluida_en": "Premium (1), Business (2), tarjeta Quasar Visa Gold (1) y Platinum (2)"
+      },
+      "review_highlights": [
+        "La compré en la app en un minuto y me ahorré la fila del counter",
+        "Ojo: es por trayecto, no por el viaje completo",
+        "En el aeropuerto me iban a cobrar bastante más"
+      ]
+    },
+    {
+      "product_id": "QA-ANC-102",
+      "title": "Exceso de peso: maleta de 23 a 32 kg",
+      "brand": "Quasar Airlines",
+      "price": 60.0,
+      "currency": "USD",
+      "rating": 4.0,
+      "review_count": 1180,
+      "category": "ancillaries",
+      "labels": [],
+      "attributes": {
+        "price_unit": "per_segment",
+        "price_qualifier": "por maleta, por trayecto",
+        "weight_range_kg": "23–32",
+        "requires": "una maleta documentada, incluida en tu tarifa o comprada",
+        "airport_price_usd": "80"
+      },
+      "in_stock": true,
+      "short_description": "Si tu maleta pesa entre 23 y 32 kg, prepaga el exceso en línea y evita el cobro en el aeropuerto.",
+      "long_description": "Cubre una maleta documentada que pese más de 23 kg y hasta 32 kg. Se aplica sobre una maleta que ya esté en tu reserva, incluida en tu cabina o comprada aparte. Las maletas de más de 32 kg no se aceptan como equipaje: reparte el peso en otra maleta o envíalas como carga. Comprarlo en línea sale más económico que pagarlo en el aeropuerto.",
+      "specs": {
+        "limite": "32 kg por pieza, por seguridad del personal en plataforma",
+        "aplica_a": "una maleta; si llevas dos con sobrepeso, compra dos"
+      },
+      "review_highlights": [
+        "Me salvó en el regreso de Miami con las compras",
+        "Pesa la maleta en casa: si pasa de 32 kg no la reciben"
+      ]
+    },
+    {
+      "product_id": "QA-ANC-110",
+      "title": "Selección de asiento",
+      "brand": "Quasar Airlines",
+      "price": 15.0,
+      "currency": "USD",
+      "rating": 4.3,
+      "review_count": 3890,
+      "category": "ancillaries",
+      "labels": [
+        "Elige pasillo o ventana"
+      ],
+      "attributes": {
+        "price_unit": "per_segment",
+        "price_qualifier": "por pasajero, por trayecto",
+        "applies_to": "Economy (Premium y Business ya incluyen la selección de asiento)",
+        "purchase_deadline": "hasta el cierre del check-in en línea"
+      },
+      "in_stock": true,
+      "short_description": "Elige tu asiento desde la compra: estándar, salida de emergencia con más espacio o primera fila.",
+      "long_description": "En Economy el asiento se asigna sin costo al hacer check-in, según disponibilidad. Si quieres asegurar pasillo o ventana, o viajar junto a tu acompañante, elígelo desde la compra. Hay tres opciones: asiento estándar en cualquier fila disponible; salida de emergencia, con unos 15 cm más para las piernas; y primera fila de Economy, para salir antes del avión al aterrizar. Premium y Business ya incluyen la selección de asiento.",
+      "specs": {
+        "estandar": "cualquier asiento disponible de Economy, 79 cm de espacio",
+        "salida_de_emergencia": "94 cm de espacio; solo mayores de 15 años sin movilidad reducida",
+        "primera_fila": "primeras filas de Economy, 89 cm y desembarque rápido"
+      },
+      "review_highlights": [
+        "Pagué salida de emergencia en el vuelo a Madrid y fue otra cosa",
+        "Si viajas en pareja, elegir asiento es la forma de ir juntos",
+        "La primera fila vale la pena cuando tienes afán al aterrizar"
+      ],
+      "variants": [
+        {
+          "product_id": "QA-ANC-110-STD",
+          "option_values": {
+            "seat_type": "estándar"
+          },
+          "price": 15.0,
+          "attributes": {
+            "seat_type": "estándar",
+            "legroom_cm": "79",
+            "location": "cualquier fila disponible de Economy",
+            "restrictions": "ninguna"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-ANC-110-EXT",
+          "option_values": {
+            "seat_type": "salida de emergencia"
+          },
+          "price": 35.0,
+          "attributes": {
+            "seat_type": "salida de emergencia",
+            "legroom_cm": "94",
+            "location": "filas de salida de emergencia",
+            "restrictions": "mayores de 15 años, sin movilidad reducida, sin bebé en brazos ni mascota"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-ANC-110-FRT",
+          "option_values": {
+            "seat_type": "primera fila"
+          },
+          "price": 45.0,
+          "attributes": {
+            "seat_type": "primera fila",
+            "legroom_cm": "89",
+            "location": "primera fila de Economy, desembarcas de primeros",
+            "restrictions": "sin mascota en cabina"
+          },
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "product_id": "QA-ANC-120",
+      "title": "Embarque prioritario",
+      "brand": "Quasar Airlines",
+      "price": 20.0,
+      "currency": "USD",
+      "rating": 4.2,
+      "review_count": 2460,
+      "category": "ancillaries",
+      "labels": [
+        "Grupo 1"
+      ],
+      "attributes": {
+        "price_unit": "per_segment",
+        "price_qualifier": "por pasajero, por trayecto",
+        "boarding_group": "Grupo 1",
+        "included_in": "Premium, Business y socios Quasar Platinum"
+      },
+      "in_stock": true,
+      "short_description": "Aborda en el Grupo 1 y acomoda tu equipaje de mano sin afanes.",
+      "long_description": "Con embarque prioritario abordas en el Grupo 1, junto a Premium y Business: encuentras espacio para tu maleta de mano en el compartimento superior y te sientas antes de que se llene el pasillo. Incluye fila preferencial en la puerta de embarque, no en el control de seguridad (para eso está el fast track en Bogotá). Premium, Business y los socios Quasar Platinum ya lo tienen incluido.",
+      "specs": {
+        "grupo": "Grupo 1, antes de Economy",
+        "donde_aplica": "puerta de embarque en todos los aeropuertos Quasar"
+      },
+      "review_highlights": [
+        "Vale cada dólar en vuelos llenos: el compartimento se llena rápido",
+        "Combínalo con el fast track en Bogotá y llegas a la puerta en minutos"
+      ]
+    },
+    {
+      "product_id": "QA-ANC-130",
+      "title": "Acceso a Quasar Lounge (BOG, MDE, MIA)",
+      "brand": "Quasar Airlines",
+      "price": 39.0,
+      "currency": "USD",
+      "rating": 4.6,
+      "review_count": 1975,
+      "category": "ancillaries",
+      "labels": [
+        "Duchas en BOG y MIA"
+      ],
+      "attributes": {
+        "price_unit": "per_visit",
+        "price_qualifier": "por persona, por visita",
+        "locations": "Bogotá (BOG), Medellín (MDE), Miami (MIA)",
+        "access_window": "desde 3 horas antes de tu vuelo Quasar",
+        "includes": "comida caliente, bar, wifi, estaciones de trabajo; duchas en BOG y MIA",
+        "included_in": "Business, socios Quasar Platinum, tarjeta Quasar Visa Platinum (ilimitado) y Gold (4 visitas al año)"
+      },
+      "in_stock": true,
+      "short_description": "Espera tu vuelo en Quasar Lounge: comida caliente, bar, wifi rápido y duchas en Bogotá y Miami.",
+      "long_description": "Quasar Lounge es la sala VIP de Quasar en Bogotá, Medellín y Miami. Puedes entrar desde 3 horas antes de la salida de tu vuelo Quasar del mismo día y disfrutar de comida caliente, bar, café de origen, wifi rápido y estaciones de trabajo con tomas; en Bogotá y Miami hay duchas. El pase es por persona y por visita; los menores de 12 años entran gratis con un adulto que tenga acceso. Business, los socios Quasar Platinum y los titulares de la tarjeta Quasar Visa Platinum entran sin costo; la Gold incluye 4 visitas al año.",
+      "specs": {
+        "horario": "abierta desde el primer vuelo hasta el último del día",
+        "capacidad": "sujeta a disponibilidad en horas pico",
+        "menores": "menores de 12 años gratis con un adulto con acceso"
+      },
+      "review_highlights": [
+        "La ducha en Miami antes del vuelo de regreso no tiene precio",
+        "En Bogotá se llena en la noche; llega con tiempo",
+        "Buena comida, y el café de la sala es excelente"
+      ]
+    },
+    {
+      "product_id": "QA-ANC-140",
+      "title": "Wi-Fi a bordo, vuelo completo",
+      "brand": "Quasar Airlines",
+      "price": 12.0,
+      "currency": "USD",
+      "rating": 3.9,
+      "review_count": 2780,
+      "category": "ancillaries",
+      "labels": [],
+      "attributes": {
+        "price_unit": "per_segment",
+        "price_qualifier": "por dispositivo, por trayecto",
+        "devices": "1",
+        "available_on": "A320neo, A321neo, 787-8 y 787-9",
+        "suitable_for": "mensajería, correo y navegación; el video puede ser intermitente"
+      },
+      "in_stock": true,
+      "short_description": "Conéctate durante todo el vuelo para mensajear, revisar el correo y navegar.",
+      "long_description": "El pase de Wi-Fi funciona en un dispositivo desde que el avión alcanza la altura de crucero hasta el inicio del descenso. Alcanza para mensajería, correo y navegación; el video en streaming puede ser intermitente y no se permiten llamadas de voz. Lo compras en línea o a bordo al mismo precio, y si la conexión falla durante más de la mitad del vuelo te devolvemos el valor.",
+      "specs": {
+        "cobertura": "de la altura de crucero al inicio del descenso",
+        "garantia": "reembolso si falla más de la mitad del vuelo"
+      },
+      "review_highlights": [
+        "Suficiente para responder correos durante todo el vuelo a Madrid",
+        "No esperes ver series, pero para trabajar funciona"
+      ]
+    },
+    {
+      "product_id": "QA-ANC-150",
+      "title": "Mascota en cabina (hasta 8 kg con guacal)",
+      "brand": "Quasar Airlines",
+      "price": 110.0,
+      "currency": "USD",
+      "rating": 4.0,
+      "review_count": 23,
+      "category": "ancillaries",
+      "labels": [],
+      "attributes": {
+        "price_unit": "per_segment",
+        "max_weight_kg": "8"
+      },
+      "in_stock": true,
+      "short_description": "Lleva a tu mascota contigo en la cabina.",
+      "long_description": "Mascota pequeña en cabina."
+    },
+    {
+      "product_id": "QA-ANC-160",
+      "title": "Fast track de seguridad en Bogotá (BOG)",
+      "brand": "Quasar Airlines",
+      "price": 18.0,
+      "currency": "USD",
+      "rating": 4.5,
+      "review_count": 1340,
+      "category": "ancillaries",
+      "labels": [
+        "Ahorra tiempo en hora pico"
+      ],
+      "attributes": {
+        "price_unit": "per_segment",
+        "price_qualifier": "por pasajero, por salida desde Bogotá",
+        "location": "Aeropuerto El Dorado, Bogotá (BOG)",
+        "valid_for": "salidas nacionales e internacionales de Quasar",
+        "included_in": "Business y socios Quasar Platinum"
+      },
+      "in_stock": true,
+      "short_description": "Pasa el control de seguridad de El Dorado por una fila exclusiva y llega a la puerta en minutos.",
+      "long_description": "En horas pico, la fila de seguridad de El Dorado puede tomar más de 30 minutos. Con fast track usas el acceso preferencial de Quasar al control de seguridad, tanto en salidas nacionales como internacionales. Aplica solo en Bogotá y no reemplaza el paso por migración. Queda marcado en tu pase de abordar; Business y los socios Quasar Platinum ya lo tienen incluido.",
+      "specs": {
+        "donde": "control de seguridad de El Dorado, acceso preferencial Quasar",
+        "no_incluye": "migración ni otros aeropuertos"
+      },
+      "review_highlights": [
+        "Los lunes a las 5 a. m. me ahorra media hora",
+        "Solo sirve en Bogotá; en Miami no aplica"
+      ]
+    },
+    {
+      "product_id": "QA-CARD-100",
+      "title": "Tarjeta Quasar Visa",
+      "brand": "Banco Andino Digital",
+      "price": 0.0,
+      "currency": "USD",
+      "rating": 4.5,
+      "review_count": 3120,
+      "category": "card",
+      "labels": [
+        "Acumula millas en cada compra",
+        "Classic sin cuota de manejo"
+      ],
+      "attributes": {
+        "price_unit": "per_year",
+        "price_qualifier": "cuota de manejo anual",
+        "issuer": "Banco Andino Digital",
+        "network": "Visa",
+        "card_type": "crédito",
+        "miles_program": "Quasar Miles",
+        "decision_time": "inmediata, o revisión manual en 2 días hábiles"
+      },
+      "in_stock": true,
+      "short_description": "La tarjeta de crédito de Quasar Airlines: acumula millas en todas tus compras y viaja con maletas, salas VIP y seguro incluidos según el nivel.",
+      "long_description": "La Quasar Visa es la tarjeta de crédito de Quasar Airlines, emitida por Banco Andino Digital. Todas tus compras suman Quasar Miles, dentro y fuera de la aerolínea, y cada nivel agrega beneficios de viaje. Classic no tiene cuota de manejo y es la forma más simple de empezar a acumular millas. Gold está pensada para quien vuela varias veces al año: la maleta documentada incluida en cada trayecto compensa la cuota en pocos viajes, y suma visitas a Quasar Lounge y seguro de viaje. Platinum es para viajeros frecuentes: salas ilimitadas, dos maletas por trayecto, cero comisión en compras en el exterior y 12 cuotas sin interés. La aprobación, el cupo y las tasas los define el banco emisor.",
+      "specs": {
+        "emisor": "Banco Andino Digital",
+        "red": "Visa",
+        "entrega": "tarjeta digital lista al aprobarse; la física llega en 5 días hábiles",
+        "millas": "sin límite de acumulación; vencen a los 24 meses sin actividad en la cuenta",
+        "beneficios_de_viaje": "aplican cuando el tiquete se paga con la tarjeta"
+      },
+      "review_highlights": [
+        "Con la Gold, la maleta incluida ya me pagó la cuota en tres viajes",
+        "La tarjeta digital quedó activa el mismo día",
+        "Los intereses son altos si no pagas el total; úsala como medio de pago, no como crédito"
+      ],
+      "variants": [
+        {
+          "product_id": "QA-CARD-100-CLASSIC",
+          "option_values": {
+            "tier": "classic"
+          },
+          "price": 0.0,
+          "labels": [
+            "Sin cuota de manejo"
+          ],
+          "attributes": {
+            "tier": "classic",
+            "miles_per_usd": "1",
+            "welcome_bonus_miles": "5,000",
+            "free_checked_bag": "no",
+            "lounge_visits": "0",
+            "travel_insurance_included": "no",
+            "interest_free_installments": "3",
+            "apr_pct": "31.9",
+            "min_monthly_income_usd": "1,200",
+            "credit_limit_range_usd": "1,000–3,000",
+            "late_fee_usd": "25",
+            "foreign_transaction_fee_pct": "3"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-CARD-100-GOLD",
+          "option_values": {
+            "tier": "gold"
+          },
+          "price": 99.0,
+          "labels": [
+            "La más elegida"
+          ],
+          "attributes": {
+            "tier": "gold",
+            "miles_per_usd": "1.5",
+            "welcome_bonus_miles": "20,000",
+            "free_checked_bag": "1 maleta por trayecto",
+            "lounge_visits": "4 al año",
+            "travel_insurance_included": "Quasar Protect Básico",
+            "interest_free_installments": "6",
+            "apr_pct": "29.9",
+            "min_monthly_income_usd": "2,500",
+            "credit_limit_range_usd": "3,000–8,000",
+            "late_fee_usd": "25",
+            "foreign_transaction_fee_pct": "2"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-CARD-100-PLATINUM",
+          "option_values": {
+            "tier": "platinum"
+          },
+          "price": 249.0,
+          "labels": [
+            "Salas VIP ilimitadas"
+          ],
+          "attributes": {
+            "tier": "platinum",
+            "miles_per_usd": "2",
+            "welcome_bonus_miles": "50,000",
+            "free_checked_bag": "2 maletas por trayecto",
+            "lounge_visits": "ilimitadas",
+            "travel_insurance_included": "Quasar Protect Plus",
+            "interest_free_installments": "12",
+            "apr_pct": "27.9",
+            "min_monthly_income_usd": "5,000",
+            "credit_limit_range_usd": "8,000–20,000",
+            "late_fee_usd": "25",
+            "foreign_transaction_fee_pct": "0"
+          },
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "product_id": "QA-MIL-200",
+      "title": "Paquete de millas Quasar Miles",
+      "brand": "Quasar Airlines",
+      "price": 95.0,
+      "currency": "USD",
+      "rating": 4.1,
+      "review_count": 860,
+      "category": "miles",
+      "labels": [
+        "Acreditación inmediata"
+      ],
+      "attributes": {
+        "price_unit": "one_time",
+        "price_qualifier": "pago único",
+        "credited": "inmediato",
+        "annual_purchase_limit": "50,000 millas por año",
+        "counts_toward_status": "no"
+      },
+      "in_stock": true,
+      "short_description": "Completa las millas que te faltan para tu próximo canje; se acreditan al instante en tu cuenta Quasar Miles.",
+      "long_description": "Los paquetes de Quasar Miles sirven para completar un canje cuando te faltan pocas millas: se acreditan al instante y puedes usarlas de inmediato en vuelos, mejoras de cabina o ancillaries. Mientras más grande el paquete, menor el costo por milla. Como referencia, un trayecto nacional en Economy se canjea desde 7,500 millas y Bogotá–Miami desde 15,000. Las millas compradas no cuentan para subir de nivel, y el límite es de 50,000 millas compradas por año. Si vuelas seguido, la tarjeta Quasar Visa suele ser una forma más barata de acumular.",
+      "specs": {
+        "acreditacion": "inmediata en tu cuenta Quasar Miles",
+        "vigencia": "vencen a los 24 meses sin actividad en la cuenta",
+        "limite_anual": "50,000 millas compradas por año"
+      },
+      "review_highlights": [
+        "Me faltaban 3,000 millas para el tiquete y lo resolví en un minuto",
+        "Si vas a canjear pronto, el paquete grande sale mejor por milla",
+        "Comprar millas no te sube de categoría; lo aprendí tarde"
+      ],
+      "variants": [
+        {
+          "product_id": "QA-MIL-200-5K",
+          "option_values": {
+            "pack": "5,000 millas"
+          },
+          "price": 95.0,
+          "attributes": {
+            "miles": "5,000",
+            "cost_per_mile_usd": "0.019"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-MIL-200-10K",
+          "option_values": {
+            "pack": "10,000 millas"
+          },
+          "price": 180.0,
+          "attributes": {
+            "miles": "10,000",
+            "cost_per_mile_usd": "0.018"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-MIL-200-25K",
+          "option_values": {
+            "pack": "25,000 millas"
+          },
+          "price": 425.0,
+          "labels": [
+            "Mejor precio por milla"
+          ],
+          "attributes": {
+            "miles": "25,000",
+            "cost_per_mile_usd": "0.017"
+          },
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "product_id": "QA-INS-300",
+      "title": "Seguro de viaje Quasar Protect",
+      "brand": "Quasar Airlines",
+      "price": 18.0,
+      "currency": "USD",
+      "rating": 4.3,
+      "review_count": 1240,
+      "category": "insurance",
+      "labels": [
+        "Cobertura médica desde $30,000"
+      ],
+      "attributes": {
+        "price_unit": "per_trip",
+        "price_qualifier": "por pasajero, por viaje de hasta 30 días",
+        "underwriter": "Aseguradora Cóndor (ficticia)",
+        "max_trip_days": "30",
+        "pre_existing_conditions": "no cubiertas",
+        "assistance": "línea 24/7 en español"
+      },
+      "in_stock": true,
+      "short_description": "Seguro de viaje por pasajero: gastos médicos, equipaje y, desde el plan Plus, cancelación y retrasos.",
+      "long_description": "Quasar Protect es el seguro de viaje que puedes agregar a tu reserva, suscrito por Aseguradora Cóndor. Cubre por pasajero viajes de hasta 30 días. Básico cubre gastos médicos y equipaje perdido. Plus agrega cancelación del viaje por causas cubiertas (enfermedad grave, accidente o fallecimiento de un familiar directo) y una compensación si tu vuelo se retrasa. Premium duplica la cobertura médica de Plus y amplía cancelación, equipaje y retraso. Para viajes a Europa o Estados Unidos, donde la atención médica es costosa, recomendamos Plus o Premium. No cubre enfermedades preexistentes.",
+      "specs": {
+        "asegurador": "Aseguradora Cóndor (ficticia)",
+        "vigencia": "desde la salida hasta el regreso, máximo 30 días",
+        "compra": "hasta antes de la salida; la cobertura de cancelación exige comprarlo 72 horas antes",
+        "asistencia": "línea 24/7 en español desde cualquier país"
+      },
+      "review_highlights": [
+        "Me enfermé en Madrid y la asistencia me mandó un médico al hotel en dos horas",
+        "El retraso de 6 horas me lo pagaron sin papeleo",
+        "Lee bien las exclusiones: lo preexistente no entra"
+      ],
+      "variants": [
+        {
+          "product_id": "QA-INS-300-BASIC",
+          "option_values": {
+            "plan": "básico"
+          },
+          "price": 18.0,
+          "attributes": {
+            "plan": "básico",
+            "medical_coverage_usd": "30,000",
+            "trip_cancellation": "no incluida",
+            "lost_baggage_usd": "500",
+            "flight_delay": "no"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-INS-300-PLUS",
+          "option_values": {
+            "plan": "plus"
+          },
+          "price": 39.0,
+          "labels": [
+            "Recomendado para Europa y EE. UU."
+          ],
+          "attributes": {
+            "plan": "plus",
+            "medical_coverage_usd": "75,000",
+            "trip_cancellation": "hasta $1,500",
+            "lost_baggage_usd": "1,200",
+            "flight_delay": "$150 desde 6 h"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-INS-300-PREMIUM",
+          "option_values": {
+            "plan": "premium"
+          },
+          "price": 69.0,
+          "attributes": {
+            "plan": "premium",
+            "medical_coverage_usd": "150,000",
+            "trip_cancellation": "hasta $5,000",
+            "lost_baggage_usd": "2,500",
+            "flight_delay": "$300 desde 4 h"
+          },
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "product_id": "QA-PAY-400",
+      "title": "Quasar Pay · pago en cuotas",
+      "brand": "Quasar Airlines",
+      "price": 0.0,
+      "currency": "USD",
+      "rating": 4.2,
+      "review_count": 970,
+      "category": "financing",
+      "labels": [
+        "Sin costo de apertura"
+      ],
+      "attributes": {
+        "price_unit": "financing",
+        "price_qualifier": "sin costo de apertura; la tasa depende del plazo",
+        "setup_fee_usd": "0",
+        "eligible_purchases": "vuelos, ancillaries y seguros Quasar",
+        "min_purchase_usd": "100",
+        "first_installment": "30 días después de la compra",
+        "prepayment": "sin penalidad",
+        "provider": "Banco Andino Digital"
+      },
+      "in_stock": true,
+      "short_description": "Paga tus vuelos, ancillaries y seguros Quasar en 3, 6 o 12 cuotas mensuales, sin costo de apertura.",
+      "long_description": "Quasar Pay divide el valor de tus vuelos, ancillaries y seguros Quasar en cuotas mensuales, sin costo de apertura y con aprobación en el momento del pago. Lo opera Banco Andino Digital. En 3 cuotas no pagas intereses si usas una tarjeta Quasar Visa; con otros medios la tasa es 18.9 % EA. En 6 y 12 cuotas la tasa es 22.9 % y 24.9 % EA. La primera cuota se cobra 30 días después de la compra y puedes pagar el saldo por anticipado sin penalidad. Si tienes tarjeta Quasar Visa, compara también las cuotas sin interés de tu tarjeta: 3 en Classic, 6 en Gold y 12 en Platinum.",
+      "specs": {
+        "operador": "Banco Andino Digital",
+        "compra_minima": "$100",
+        "aprobacion": "en el momento del pago, sujeta a validación de identidad",
+        "pago_anticipado": "sin penalidad, desde la app"
+      },
+      "review_highlights": [
+        "Pagué el viaje a Cancún en 6 cuotas y no se sintió en el mes",
+        "La aprobación fue instantánea al pagar",
+        "En 12 cuotas los intereses suman; haz la cuenta antes"
+      ],
+      "variants": [
+        {
+          "product_id": "QA-PAY-400-3",
+          "option_values": {
+            "installments": "3 cuotas"
+          },
+          "price": 0.0,
+          "attributes": {
+            "installments": "3",
+            "interest_rate_ea_pct": "0 con tarjeta Quasar · 18.9 otros medios"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-PAY-400-6",
+          "option_values": {
+            "installments": "6 cuotas"
+          },
+          "price": 0.0,
+          "attributes": {
+            "installments": "6",
+            "interest_rate_ea_pct": "22.9"
+          },
+          "in_stock": true
+        },
+        {
+          "product_id": "QA-PAY-400-12",
+          "option_values": {
+            "installments": "12 cuotas"
+          },
+          "price": 0.0,
+          "attributes": {
+            "installments": "12",
+            "interest_rate_ea_pct": "24.9"
+          },
+          "in_stock": true
+        }
+      ]
+    }
+  ]
+}

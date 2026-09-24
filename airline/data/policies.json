@@ -1,0 +1,88 @@
+{
+  "policies": [
+    {
+      "policy_id": "baggage-allowance",
+      "title": "Equipaje permitido por cabina",
+      "category": "baggage",
+      "content": "Todas las tarifas incluyen un artículo personal que quepa bajo el asiento y una maleta de mano de hasta 10 kg (55 x 35 x 25 cm). Economy no incluye maleta documentada; Premium incluye 1 y Business 2, de hasta 23 kg y 158 cm lineales cada una. Puedes agregar una maleta documentada de 23 kg por $45 por trayecto hasta 3 horas antes del vuelo; en el aeropuerto cuesta $65. El exceso de peso, de 23 a 32 kg, cuesta $60 por maleta y trayecto ($80 en el aeropuerto); no se aceptan maletas de más de 32 kg. Con la tarjeta Quasar Visa Gold tienes 1 maleta documentada sin costo por trayecto y con la Platinum 2, cuando el tiquete se paga con la tarjeta."
+    },
+    {
+      "policy_id": "flight-changes-refunds",
+      "title": "Cambios y reembolsos de vuelos",
+      "category": "changes",
+      "content": "Economy: puedes cambiar la fecha o la ruta hasta 3 horas antes de la salida pagando un cargo de $75 por trayecto más la diferencia de tarifa. La tarifa no es reembolsable y, si no te presentas, pierdes el valor del trayecto. Premium: los cambios no tienen cargo, solo pagas la diferencia de tarifa; no es reembolsable, pero si cancelas antes de la salida conservas el valor como crédito Quasar por 12 meses. Business: cambios sin cargo y sin diferencia de tarifa en la misma ruta y cabina, y reembolso total al medio de pago original si cancelas antes de la salida. Los reembolsos se procesan en 7 a 10 días hábiles. Las tasas aeroportuarias de trayectos no volados se reembolsan en todas las cabinas. Para compras recientes, revisa también el derecho de retracto."
+    },
+    {
+      "policy_id": "check-in-boarding",
+      "title": "Check-in y abordaje",
+      "category": "airport",
+      "content": "El check-in en línea abre 48 horas antes de la salida y cierra 1 hora antes. Si documentas equipaje, el counter del aeropuerto cierra 45 minutos antes en vuelos nacionales y 60 minutos antes en internacionales. La puerta de embarque cierra 20 minutos antes de la salida, y después de ese momento no es posible abordar. El abordaje es por grupos: el Grupo 1 es para Business, Premium, socios Quasar Platinum y quienes compraron embarque prioritario; luego aborda Economy por grupos del 2 al 4. En vuelos internacionales presenta pasaporte vigente y la visa que exija tu destino. Tu pase de abordar queda en la app y también puedes imprimirlo en los quioscos del aeropuerto."
+    },
+    {
+      "policy_id": "delayed-cancelled-flights",
+      "title": "Retrasos y cancelaciones de vuelos",
+      "category": "disruptions",
+      "content": "Si tu vuelo se retrasa más de 3 horas, Quasar te entrega alimentación. Si el retraso supera 5 horas o el vuelo se cancela, eliges entre reubicarte sin costo en el siguiente vuelo Quasar con sillas disponibles o el reembolso total del trayecto no volado. Si la espera incluye la noche, cubrimos hotel y traslados. Cuando la causa es atribuible a Quasar, además te compensamos con 5,000 millas en vuelos nacionales o 10,000 en internacionales; los retrasos por clima o control de tráfico aéreo reciben asistencia, pero no compensación en millas. Te avisamos por correo, SMS y la app. Si tienes el seguro Quasar Protect, el plan Plus paga $150 por retrasos desde 6 horas y el Premium $300 desde 4 horas."
+    },
+    {
+      "policy_id": "quasar-lounge",
+      "title": "Salas Quasar Lounge",
+      "category": "lounge",
+      "content": "Quasar Lounge opera en Bogotá (BOG), Medellín (MDE) y Miami (MIA). Puedes entrar desde 3 horas antes de la salida de tu vuelo Quasar del mismo día. Incluye comida caliente, bar, café, wifi y estaciones de trabajo; en Bogotá y Miami también hay duchas. Entran sin costo los pasajeros de Business, los socios Quasar Platinum y los titulares de la tarjeta Quasar Visa Platinum, con visitas ilimitadas; la Quasar Visa Gold incluye 4 visitas al año. Cualquier pasajero con vuelo Quasar puede comprar un pase por $39 por persona y por visita. Los menores de 12 años entran gratis con un adulto que tenga acceso. En horas pico el ingreso está sujeto a la capacidad de la sala."
+    },
+    {
+      "policy_id": "pets-in-cabin",
+      "title": "Mascotas en cabina",
+      "category": "pets",
+      "content": "Perros y gatos de hasta 8 kg, incluido el guacal, viajan en cabina por $110 por trayecto. El guacal debe ser blando o semirrígido, ventilado, de máximo 45 x 35 x 25 cm, y va bajo el asiento delantero durante todo el vuelo. Se acepta una mascota por pasajero y hasta 4 por vuelo, así que resérvala con anticipación. La mascota debe tener al menos 4 meses y certificado de vacunación vigente; para vuelos a Estados Unidos y España también se exige certificado de salud internacional. No puedes viajar con mascota en la primera fila ni en las filas de salida de emergencia. Los perros de asistencia viajan sin costo con la documentación correspondiente."
+    },
+    {
+      "policy_id": "quasar-miles",
+      "title": "Quasar Miles: acumulación, vencimiento y compra",
+      "category": "loyalty",
+      "content": "Acumulas millas en cada vuelo según la ruta y la cabina; por ejemplo, Bogotá–Miami suma 1,200 millas en Economy, 1,800 en Premium y 3,000 en Business. Con la tarjeta Quasar Visa acumulas 1, 1.5 o 2 millas por dólar según el nivel. Las millas vencen a los 24 meses sin actividad: cualquier acumulación o canje reinicia el plazo. Puedes comprar paquetes de 5,000 millas ($95), 10,000 ($180) o 25,000 ($425), hasta 50,000 millas por año; se acreditan de inmediato y no cuentan para subir de nivel. Los niveles son Quasar Blue, Silver, Gold y Platinum, según las millas de vuelo de los últimos 12 meses: Silver desde 15,000, Gold desde 30,000 y Platinum desde 60,000. Platinum incluye Quasar Lounge ilimitado y embarque prioritario."
+    },
+    {
+      "policy_id": "quasar-card-benefits",
+      "title": "Beneficios de la tarjeta Quasar Visa",
+      "category": "card",
+      "content": "La tarjeta Quasar Visa, emitida por Banco Andino Digital, tiene tres niveles. Classic, sin cuota de manejo: 1 milla por dólar, 5,000 millas de bienvenida y 3 cuotas sin interés en compras Quasar. Gold, $99 al año: 1.5 millas por dólar, 20,000 millas de bienvenida, 1 maleta documentada sin costo por trayecto, 4 visitas a Quasar Lounge al año, seguro Quasar Protect Básico y 6 cuotas sin interés. Platinum, $249 al año: 2 millas por dólar, 50,000 millas de bienvenida, 2 maletas por trayecto, salas ilimitadas, Quasar Protect Plus y 12 cuotas sin interés. Las millas de bienvenida se acreditan tras compras por $1,000 en los primeros 90 días. Los beneficios de viaje aplican cuando el tiquete se paga con la tarjeta."
+    },
+    {
+      "policy_id": "quasar-card-rates-fees",
+      "title": "Tasas y cargos de la tarjeta Quasar Visa",
+      "category": "pricing",
+      "content": "Las tasas y los cargos de la tarjeta Quasar Visa los fija Banco Andino Digital, el emisor; Quasar Airlines no los define ni puede modificarlos. Tasa de interés anual (APR) para compras: Classic 31.9 %, Gold 29.9 % y Platinum 27.9 %. Cuota de manejo anual: Classic $0, Gold $99 y Platinum $249, cobrada en el primer extracto de cada año de la tarjeta. Cargo por pago tardío: $25 en los tres niveles. Comisión por transacciones en moneda extranjera: 3 % en Classic, 2 % en Gold y 0 % en Platinum. Si pagas el total del extracto antes de la fecha límite, no pagas intereses sobre las compras. El cupo depende de la evaluación: $1,000 a $3,000 en Classic, $3,000 a $8,000 en Gold y $8,000 a $20,000 en Platinum."
+    },
+    {
+      "policy_id": "card-application-process",
+      "title": "Cómo solicitar la tarjeta Quasar Visa",
+      "category": "credit",
+      "content": "Para solicitarla debes ser mayor de 18 años y tener un ingreso mensual mínimo de $1,200 para Classic, $2,500 para Gold o $5,000 para Platinum. Antes de evaluar tu solicitud te pedimos consentimiento expreso para consultar la central de riesgo. La evaluación es automática, con reglas de puntaje sobre cuatro factores: historial crediticio, relación deuda/ingreso, antigüedad laboral y uso de tus cupos de crédito. No se aprueba si hay más de 2 moras en los últimos 24 meses o si tus deudas superan el 45 % de tu ingreso. El resultado puede ser: aprobada, con los niveles a los que calificas; en revisión manual, con respuesta en 2 días hábiles; o no aprobada, con los motivos. No pedimos género, nacionalidad ni estado civil, y tus datos solo se usan para decidir la solicitud."
+    },
+    {
+      "policy_id": "quasar-pay-installments",
+      "title": "Quasar Pay: pago en cuotas",
+      "category": "payments",
+      "content": "Quasar Pay te permite pagar vuelos, ancillaries y seguros Quasar en 3, 6 o 12 cuotas mensuales, sin costo de apertura, en compras desde $100. Lo opera Banco Andino Digital y la aprobación se da en el momento del pago. Tasas efectivas anuales: 3 cuotas sin interés si pagas con tarjeta Quasar Visa (18.9 % EA con otros medios), 6 cuotas al 22.9 % EA y 12 cuotas al 24.9 % EA. La primera cuota se cobra 30 días después de la compra y puedes pagar el saldo por anticipado sin penalidad. Si tienes la tarjeta Quasar Visa, también puedes diferir la compra sin interés directamente en la tarjeta: hasta 3 cuotas en Classic, 6 en Gold y 12 en Platinum."
+    },
+    {
+      "policy_id": "travel-insurance-coverage",
+      "title": "Cobertura del seguro Quasar Protect",
+      "category": "insurance",
+      "content": "Quasar Protect es un seguro de viaje suscrito por Aseguradora Cóndor y comercializado por Quasar. Cubre por pasajero viajes de hasta 30 días. Básico ($18): gastos médicos hasta $30,000 y equipaje perdido hasta $500; no incluye cancelación ni retraso. Plus ($39): gastos médicos hasta $75,000, cancelación del viaje hasta $1,500, equipaje hasta $1,200 y $150 si tu vuelo se retrasa 6 horas o más. Premium ($69): gastos médicos hasta $150,000, cancelación hasta $5,000, equipaje hasta $2,500 y $300 por retrasos desde 4 horas. La cancelación cubre enfermedad grave, accidente o fallecimiento de un familiar directo, no cambios de planes, y exige comprar el seguro al menos 72 horas antes de la salida. Las enfermedades preexistentes no están cubiertas."
+    },
+    {
+      "policy_id": "right-of-withdrawal",
+      "title": "Derecho de retracto",
+      "category": "returns",
+      "content": "Tarjeta Quasar Visa: puedes retractarte dentro de los 5 días hábiles siguientes a recibirla, siempre que no la hayas usado; la anulamos sin costo y no se cobra la cuota de manejo. Vuelos: si compraste con 7 o más días de anticipación a la salida, puedes desistir dentro de las 24 horas siguientes a la compra y recibir el reembolso total, sin cargos. Las compras hechas con menos de 7 días de anticipación siguen las reglas de cambios y reembolsos de tu cabina. Los ancillaries y seguros comprados en la misma reserva se reembolsan junto con el vuelo. El reembolso se hace al medio de pago original en un máximo de 10 días hábiles. Pasado el plazo de retracto aplican las condiciones normales de cada producto."
+    },
+    {
+      "policy_id": "privacy-data-use",
+      "title": "Privacidad y uso de tus datos",
+      "category": "privacy",
+      "content": "Quasar Airlines usa tus datos de reserva y de perfil (nombre, documento, contacto y preferencias de viaje) para gestionar tus vuelos y personalizar recomendaciones. El asistente recuerda las preferencias que compartes, como tu asiento favorito; puedes verlas y borrarlas en cualquier momento desde tu perfil. Los datos de una solicitud de tarjeta se envían por un formulario seguro directamente a la evaluación, sin pasar por la conversación con el asistente; solo se usan para decidir la solicitud, nunca para publicidad ni para otro fin, y la consulta a la central de riesgo requiere tu consentimiento expreso. No vendemos tus datos. Puedes pedir acceso, corrección o eliminación desde la sección Privacidad de tu cuenta. Conservamos los datos de reservas durante 5 años por obligaciones legales."
+    }
+  ]
+}

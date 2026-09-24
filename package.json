@@ -1,0 +1,12 @@
+{
+  "name": "quasar-airlines",
+  "private": true,
+  "workspaces": [
+    "web-shared",
+    "airline/storefront-web",
+    "airline/merchant-web"
+  ],
+  "scripts": {
+    "build": "npm run build --workspaces --if-present"
+  }
+}

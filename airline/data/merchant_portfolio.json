@@ -1,0 +1,529 @@
+{
+  "airline": "Quasar Airlines · Operaciones comerciales",
+  "economics_note": "Costo por cuenta (mensual, USD): recompensas (millas otorgadas y bonos de bienvenida) + riesgo (pérdida esperada de crédito compartida con Banco Andino Digital, o siniestralidad y reembolsos en seguros) + procesamiento (emisión, red, plataforma y atención), por cuenta activa o póliza vigente; el ingreso por cuenta es la participación mensual de Quasar Airlines.",
+  "products": [
+    {
+      "product_id": "QA-CARD-100-CLASSIC",
+      "kind": "card",
+      "accounts": 26831,
+      "cost_per_account_usd": 2.45,
+      "weeks": [
+        {
+          "week_start": "2026-07-06",
+          "accounts": 25092,
+          "cancellation_rate_pct": 1.1,
+          "revenue_per_account": 3.22
+        },
+        {
+          "week_start": "2026-07-13",
+          "accounts": 25231,
+          "cancellation_rate_pct": 1.12,
+          "revenue_per_account": 3.21
+        },
+        {
+          "week_start": "2026-07-20",
+          "accounts": 25391,
+          "cancellation_rate_pct": 1.15,
+          "revenue_per_account": 3.23
+        },
+        {
+          "week_start": "2026-07-27",
+          "accounts": 25524,
+          "cancellation_rate_pct": 1.17,
+          "revenue_per_account": 3.2
+        },
+        {
+          "week_start": "2026-08-03",
+          "accounts": 25630,
+          "cancellation_rate_pct": 1.21,
+          "revenue_per_account": 3.21
+        },
+        {
+          "week_start": "2026-08-10",
+          "accounts": 25760,
+          "cancellation_rate_pct": 1.25,
+          "revenue_per_account": 3.19
+        },
+        {
+          "week_start": "2026-08-17",
+          "accounts": 25883,
+          "cancellation_rate_pct": 1.3,
+          "revenue_per_account": 3.18
+        },
+        {
+          "week_start": "2026-08-24",
+          "accounts": 25993,
+          "cancellation_rate_pct": 1.35,
+          "revenue_per_account": 3.17
+        },
+        {
+          "week_start": "2026-08-31",
+          "accounts": 26107,
+          "cancellation_rate_pct": 1.44,
+          "revenue_per_account": 3.14
+        },
+        {
+          "week_start": "2026-09-07",
+          "accounts": 26229,
+          "cancellation_rate_pct": 1.58,
+          "revenue_per_account": 3.1
+        },
+        {
+          "week_start": "2026-09-14",
+          "accounts": 26558,
+          "cancellation_rate_pct": 1.74,
+          "revenue_per_account": 3.06
+        },
+        {
+          "week_start": "2026-09-21",
+          "accounts": 26831,
+          "cancellation_rate_pct": 1.9,
+          "revenue_per_account": 3.02
+        }
+      ]
+    },
+    {
+      "product_id": "QA-CARD-100-GOLD",
+      "kind": "card",
+      "accounts": 13085,
+      "cost_per_account_usd": 4.1,
+      "weeks": [
+        {
+          "week_start": "2026-07-06",
+          "accounts": 12649,
+          "cancellation_rate_pct": 0.84,
+          "revenue_per_account": 6.45
+        },
+        {
+          "week_start": "2026-07-13",
+          "accounts": 12674,
+          "cancellation_rate_pct": 0.88,
+          "revenue_per_account": 6.38
+        },
+        {
+          "week_start": "2026-07-20",
+          "accounts": 12705,
+          "cancellation_rate_pct": 0.87,
+          "revenue_per_account": 6.38
+        },
+        {
+          "week_start": "2026-07-27",
+          "accounts": 12746,
+          "cancellation_rate_pct": 0.83,
+          "revenue_per_account": 6.38
+        },
+        {
+          "week_start": "2026-08-03",
+          "accounts": 12801,
+          "cancellation_rate_pct": 0.88,
+          "revenue_per_account": 6.4
+        },
+        {
+          "week_start": "2026-08-10",
+          "accounts": 12840,
+          "cancellation_rate_pct": 0.87,
+          "revenue_per_account": 6.4
+        },
+        {
+          "week_start": "2026-08-17",
+          "accounts": 12894,
+          "cancellation_rate_pct": 0.89,
+          "revenue_per_account": 6.43
+        },
+        {
+          "week_start": "2026-08-24",
+          "accounts": 12929,
+          "cancellation_rate_pct": 0.84,
+          "revenue_per_account": 6.43
+        },
+        {
+          "week_start": "2026-08-31",
+          "accounts": 12970,
+          "cancellation_rate_pct": 0.86,
+          "revenue_per_account": 6.42
+        },
+        {
+          "week_start": "2026-09-07",
+          "accounts": 13003,
+          "cancellation_rate_pct": 0.86,
+          "revenue_per_account": 6.4
+        },
+        {
+          "week_start": "2026-09-14",
+          "accounts": 13036,
+          "cancellation_rate_pct": 0.86,
+          "revenue_per_account": 6.41
+        },
+        {
+          "week_start": "2026-09-21",
+          "accounts": 13085,
+          "cancellation_rate_pct": 0.86,
+          "revenue_per_account": 6.45
+        }
+      ]
+    },
+    {
+      "product_id": "QA-CARD-100-PLATINUM",
+      "kind": "card",
+      "accounts": 3553,
+      "cost_per_account_usd": 7.95,
+      "weeks": [
+        {
+          "week_start": "2026-07-06",
+          "accounts": 3425,
+          "cancellation_rate_pct": 0.67,
+          "revenue_per_account": 12.72
+        },
+        {
+          "week_start": "2026-07-13",
+          "accounts": 3438,
+          "cancellation_rate_pct": 0.65,
+          "revenue_per_account": 12.86
+        },
+        {
+          "week_start": "2026-07-20",
+          "accounts": 3448,
+          "cancellation_rate_pct": 0.64,
+          "revenue_per_account": 12.77
+        },
+        {
+          "week_start": "2026-07-27",
+          "accounts": 3463,
+          "cancellation_rate_pct": 0.68,
+          "revenue_per_account": 12.9
+        },
+        {
+          "week_start": "2026-08-03",
+          "accounts": 3477,
+          "cancellation_rate_pct": 0.64,
+          "revenue_per_account": 12.78
+        },
+        {
+          "week_start": "2026-08-10",
+          "accounts": 3489,
+          "cancellation_rate_pct": 0.66,
+          "revenue_per_account": 12.81
+        },
+        {
+          "week_start": "2026-08-17",
+          "accounts": 3504,
+          "cancellation_rate_pct": 0.67,
+          "revenue_per_account": 12.84
+        },
+        {
+          "week_start": "2026-08-24",
+          "accounts": 3516,
+          "cancellation_rate_pct": 0.64,
+          "revenue_per_account": 12.8
+        },
+        {
+          "week_start": "2026-08-31",
+          "accounts": 3527,
+          "cancellation_rate_pct": 0.67,
+          "revenue_per_account": 12.84
+        },
+        {
+          "week_start": "2026-09-07",
+          "accounts": 3534,
+          "cancellation_rate_pct": 0.63,
+          "revenue_per_account": 12.79
+        },
+        {
+          "week_start": "2026-09-14",
+          "accounts": 3540,
+          "cancellation_rate_pct": 0.67,
+          "revenue_per_account": 12.86
+        },
+        {
+          "week_start": "2026-09-21",
+          "accounts": 3553,
+          "cancellation_rate_pct": 0.65,
+          "revenue_per_account": 12.82
+        }
+      ]
+    },
+    {
+      "product_id": "QA-INS-300-BASIC",
+      "kind": "insurance",
+      "accounts": 3150,
+      "cost_per_account_usd": 3.6,
+      "weeks": [
+        {
+          "week_start": "2026-07-06",
+          "accounts": 3318,
+          "cancellation_rate_pct": 2.1,
+          "revenue_per_account": 5.41
+        },
+        {
+          "week_start": "2026-07-13",
+          "accounts": 3326,
+          "cancellation_rate_pct": 2.0,
+          "revenue_per_account": 5.4
+        },
+        {
+          "week_start": "2026-07-20",
+          "accounts": 3309,
+          "cancellation_rate_pct": 2.2,
+          "revenue_per_account": 5.42
+        },
+        {
+          "week_start": "2026-07-27",
+          "accounts": 3331,
+          "cancellation_rate_pct": 2.1,
+          "revenue_per_account": 5.4
+        },
+        {
+          "week_start": "2026-08-03",
+          "accounts": 3322,
+          "cancellation_rate_pct": 2.2,
+          "revenue_per_account": 5.41
+        },
+        {
+          "week_start": "2026-08-10",
+          "accounts": 3340,
+          "cancellation_rate_pct": 2.3,
+          "revenue_per_account": 5.39
+        },
+        {
+          "week_start": "2026-08-17",
+          "accounts": 3335,
+          "cancellation_rate_pct": 2.2,
+          "revenue_per_account": 5.4
+        },
+        {
+          "week_start": "2026-08-24",
+          "accounts": 3329,
+          "cancellation_rate_pct": 2.4,
+          "revenue_per_account": 5.37
+        },
+        {
+          "week_start": "2026-08-31",
+          "accounts": 3301,
+          "cancellation_rate_pct": 2.7,
+          "revenue_per_account": 5.33
+        },
+        {
+          "week_start": "2026-09-07",
+          "accounts": 3262,
+          "cancellation_rate_pct": 3.0,
+          "revenue_per_account": 5.28
+        },
+        {
+          "week_start": "2026-09-14",
+          "accounts": 3208,
+          "cancellation_rate_pct": 3.4,
+          "revenue_per_account": 5.21
+        },
+        {
+          "week_start": "2026-09-21",
+          "accounts": 3150,
+          "cancellation_rate_pct": 3.8,
+          "revenue_per_account": 5.14
+        }
+      ]
+    },
+    {
+      "product_id": "QA-INS-300-PLUS",
+      "kind": "insurance",
+      "accounts": 1720,
+      "cost_per_account_usd": 6.2,
+      "weeks": [
+        {
+          "week_start": "2026-07-06",
+          "accounts": 1588,
+          "cancellation_rate_pct": 1.21,
+          "revenue_per_account": 11.69
+        },
+        {
+          "week_start": "2026-07-13",
+          "accounts": 1592,
+          "cancellation_rate_pct": 1.06,
+          "revenue_per_account": 11.73
+        },
+        {
+          "week_start": "2026-07-20",
+          "accounts": 1590,
+          "cancellation_rate_pct": 1.26,
+          "revenue_per_account": 11.69
+        },
+        {
+          "week_start": "2026-07-27",
+          "accounts": 1596,
+          "cancellation_rate_pct": 1.2,
+          "revenue_per_account": 11.66
+        },
+        {
+          "week_start": "2026-08-03",
+          "accounts": 1611,
+          "cancellation_rate_pct": 1.11,
+          "revenue_per_account": 11.74
+        },
+        {
+          "week_start": "2026-08-10",
+          "accounts": 1627,
+          "cancellation_rate_pct": 1.2,
+          "revenue_per_account": 11.74
+        },
+        {
+          "week_start": "2026-08-17",
+          "accounts": 1644,
+          "cancellation_rate_pct": 1.22,
+          "revenue_per_account": 11.76
+        },
+        {
+          "week_start": "2026-08-24",
+          "accounts": 1659,
+          "cancellation_rate_pct": 1.25,
+          "revenue_per_account": 11.73
+        },
+        {
+          "week_start": "2026-08-31",
+          "accounts": 1673,
+          "cancellation_rate_pct": 1.15,
+          "revenue_per_account": 11.68
+        },
+        {
+          "week_start": "2026-09-07",
+          "accounts": 1689,
+          "cancellation_rate_pct": 1.28,
+          "revenue_per_account": 11.63
+        },
+        {
+          "week_start": "2026-09-14",
+          "accounts": 1706,
+          "cancellation_rate_pct": 1.19,
+          "revenue_per_account": 11.67
+        },
+        {
+          "week_start": "2026-09-21",
+          "accounts": 1720,
+          "cancellation_rate_pct": 1.32,
+          "revenue_per_account": 11.67
+        }
+      ]
+    },
+    {
+      "product_id": "QA-INS-300-PREMIUM",
+      "kind": "insurance",
+      "accounts": 641,
+      "cost_per_account_usd": 10.4,
+      "weeks": [
+        {
+          "week_start": "2026-07-06",
+          "accounts": 598,
+          "cancellation_rate_pct": 0.75,
+          "revenue_per_account": 20.71
+        },
+        {
+          "week_start": "2026-07-13",
+          "accounts": 601,
+          "cancellation_rate_pct": 0.8,
+          "revenue_per_account": 20.78
+        },
+        {
+          "week_start": "2026-07-20",
+          "accounts": 600,
+          "cancellation_rate_pct": 0.79,
+          "revenue_per_account": 20.58
+        },
+        {
+          "week_start": "2026-07-27",
+          "accounts": 603,
+          "cancellation_rate_pct": 0.77,
+          "revenue_per_account": 20.68
+        },
+        {
+          "week_start": "2026-08-03",
+          "accounts": 608,
+          "cancellation_rate_pct": 0.79,
+          "revenue_per_account": 20.7
+        },
+        {
+          "week_start": "2026-08-10",
+          "accounts": 613,
+          "cancellation_rate_pct": 0.77,
+          "revenue_per_account": 20.6
+        },
+        {
+          "week_start": "2026-08-17",
+          "accounts": 619,
+          "cancellation_rate_pct": 0.79,
+          "revenue_per_account": 20.66
+        },
+        {
+          "week_start": "2026-08-24",
+          "accounts": 623,
+          "cancellation_rate_pct": 0.81,
+          "revenue_per_account": 20.75
+        },
+        {
+          "week_start": "2026-08-31",
+          "accounts": 628,
+          "cancellation_rate_pct": 0.82,
+          "revenue_per_account": 20.78
+        },
+        {
+          "week_start": "2026-09-07",
+          "accounts": 632,
+          "cancellation_rate_pct": 0.75,
+          "revenue_per_account": 20.81
+        },
+        {
+          "week_start": "2026-09-14",
+          "accounts": 637,
+          "cancellation_rate_pct": 0.72,
+          "revenue_per_account": 20.64
+        },
+        {
+          "week_start": "2026-09-21",
+          "accounts": 641,
+          "cancellation_rate_pct": 0.84,
+          "revenue_per_account": 20.6
+        }
+      ]
+    }
+  ],
+  "cohorts": [
+    {
+      "cohort_id": "viajeros-frecuentes-sin-tarjeta",
+      "label": "Viajeros frecuentes sin Tarjeta Quasar Visa",
+      "definition": "Socios Quasar Millas con 6 o más vuelos en los últimos 12 meses que no tienen la Tarjeta Quasar Visa ni una solicitud en curso.",
+      "size": 18400,
+      "product_ids": [
+        "QA-CARD-100-CLASSIC",
+        "QA-CARD-100-GOLD",
+        "QA-CARD-100-PLATINUM"
+      ]
+    },
+    {
+      "cohort_id": "classic-frecuentes-upgrade",
+      "label": "Titulares Classic con 6+ vuelos al año",
+      "definition": "Titulares de la Tarjeta Quasar Visa Classic con 6 o más vuelos en los últimos 12 meses y al día en sus pagos: candidatos a upgrade a Gold o Platinum.",
+      "size": 3900,
+      "product_ids": [
+        "QA-CARD-100-GOLD",
+        "QA-CARD-100-PLATINUM"
+      ]
+    },
+    {
+      "cohort_id": "bog-mia-sin-maleta",
+      "label": "Pasajeros BOG-MIA sin maleta prepagada",
+      "definition": "Pasajeros con reserva BOG→MIA (QA-0412 o QA-0418) en los próximos 60 días que no han comprado la maleta de 23 kg.",
+      "size": 7200,
+      "product_ids": [
+        "QA-ANC-101"
+      ]
+    },
+    {
+      "cohort_id": "millas-por-vencer-90d",
+      "label": "Millas por vencer en 90 días",
+      "definition": "Socios Quasar Millas con saldo que vence en los próximos 90 días y sin actividad de acumulación en los últimos 6 meses.",
+      "size": 11300,
+      "product_ids": [
+        "QA-MIL-200-5K",
+        "QA-MIL-200-10K",
+        "QA-MIL-200-25K"
+      ]
+    }
+  ]
+}

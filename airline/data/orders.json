@@ -1,0 +1,105 @@
+{
+  "_comment": "Orders are bookings: processing = a confirmed upcoming booking whose estimated_delivery is the departure date; delivered = flown (or, for miles, credited). Dates are static, like the catalog's flight dates, so QA-59120 stays aligned with QA-0412 (2026-10-16).",
+  "orders": [
+    {
+      "order_id": "QA-57402",
+      "user_id": "demo-user-2",
+      "status": "delivered",
+      "placed_at": "2026-06-02T14:22:00Z",
+      "items": [
+        {
+          "product_id": "QA-0226-ECO",
+          "title": "Medellín → Bogotá · Economy",
+          "quantity": 1,
+          "price": 79.0,
+          "option_values": {
+            "cabin": "economy"
+          },
+          "variant_of": "QA-0226"
+        }
+      ],
+      "total": 79.0,
+      "estimated_delivery": "2026-06-14",
+      "tracking_url": "https://quasar.example.com/reservas/QA-57402"
+    },
+    {
+      "order_id": "QA-58764",
+      "user_id": "demo-user",
+      "status": "delivered",
+      "placed_at": "2026-07-02T20:11:00Z",
+      "items": [
+        {
+          "product_id": "QA-MIL-200-10K",
+          "title": "Paquete de millas Quasar Miles · 10,000 millas",
+          "quantity": 1,
+          "price": 180.0,
+          "option_values": {
+            "pack": "10,000 millas"
+          },
+          "variant_of": "QA-MIL-200"
+        }
+      ],
+      "total": 180.0,
+      "estimated_delivery": "2026-07-02",
+      "tracking_url": "https://quasar.example.com/reservas/QA-58764"
+    },
+    {
+      "order_id": "QA-58213",
+      "user_id": "demo-user",
+      "status": "delivered",
+      "placed_at": "2026-07-29T16:40:00Z",
+      "items": [
+        {
+          "product_id": "QA-0412-ECO",
+          "title": "Bogotá → Miami · Economy",
+          "quantity": 1,
+          "price": 289.0,
+          "option_values": {
+            "cabin": "economy"
+          },
+          "variant_of": "QA-0412"
+        },
+        {
+          "product_id": "QA-ANC-101",
+          "title": "Maleta documentada 23 kg",
+          "quantity": 1,
+          "price": 45.0
+        }
+      ],
+      "total": 334.0,
+      "estimated_delivery": "2026-08-18",
+      "tracking_url": "https://quasar.example.com/reservas/QA-58213"
+    },
+    {
+      "order_id": "QA-59120",
+      "user_id": "demo-user",
+      "status": "processing",
+      "placed_at": "2026-09-10T12:35:00Z",
+      "items": [
+        {
+          "product_id": "QA-0412-ECO",
+          "title": "Bogotá → Miami · QA 412 · 16 oct · Economy",
+          "quantity": 1,
+          "price": 289.0,
+          "option_values": {
+            "cabin": "economy"
+          },
+          "variant_of": "QA-0412"
+        },
+        {
+          "product_id": "QA-ANC-110-STD",
+          "title": "Selección de asiento · estándar",
+          "quantity": 1,
+          "price": 15.0,
+          "option_values": {
+            "seat_type": "estándar"
+          },
+          "variant_of": "QA-ANC-110"
+        }
+      ],
+      "total": 304.0,
+      "estimated_delivery": "2026-10-16",
+      "tracking_url": "https://quasar.example.com/reservas/QA-59120"
+    }
+  ]
+}

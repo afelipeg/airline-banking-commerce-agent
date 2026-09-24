@@ -1,0 +1,71 @@
+{
+  "_comment": "Campaign windows are shifted forward by whole weeks at load time, relative to dates_anchored_to (demo_common.merchant_fixtures.load_campaigns), the same shift merchant_metrics.json gets. Author the dates as if dates_anchored_to were today.",
+  "dates_anchored_to": "2026-09-23",
+  "campaigns": [
+    {
+      "campaign_id": "QC-801",
+      "name": "Tarjeta Quasar Visa · captación viajeros frecuentes",
+      "status": "active",
+      "objective": "Solicitudes de la Tarjeta Quasar Visa (emitida por Banco Andino Digital) entre socios con 6+ vuelos al año sin tarjeta; bono de bienvenida de 15.000 millas con la primera compra",
+      "channel": "email + push en la app",
+      "budget": 48000.0,
+      "spend": 21400.0,
+      "revenue": 104800.0,
+      "currency": "USD",
+      "starts": "2026-09-01",
+      "ends": "2026-10-31"
+    },
+    {
+      "campaign_id": "QC-802",
+      "name": "Maleta prepagada ruta Miami",
+      "status": "active",
+      "objective": "Maleta de 23 kg prepagada con 15 % de descuento para pasajeros BOG-MIA que aún no la han comprado",
+      "channel": "email + banner en el checkout",
+      "budget": 9000.0,
+      "spend": 5350.0,
+      "revenue": 6120.0,
+      "currency": "USD",
+      "starts": "2026-08-24",
+      "ends": "2026-10-16"
+    },
+    {
+      "campaign_id": "QC-803",
+      "name": "Doble millas Madrid",
+      "status": "ended",
+      "objective": "Doble acumulación de millas en vuelos BOG-MAD y MAD-BOG comprados en julio y agosto",
+      "channel": "redes sociales pagadas + email",
+      "budget": 15000.0,
+      "spend": 14860.0,
+      "revenue": 186400.0,
+      "currency": "USD",
+      "starts": "2026-07-13",
+      "ends": "2026-08-23"
+    },
+    {
+      "campaign_id": "QC-804",
+      "name": "Quasar Protect en el checkout",
+      "status": "active",
+      "objective": "Ofrecer Quasar Protect (Básico, Plus y Premium) en el paso de pago de vuelos internacionales",
+      "channel": "checkout web y app",
+      "budget": 6000.0,
+      "spend": 2450.0,
+      "revenue": 31800.0,
+      "currency": "USD",
+      "starts": "2026-08-03",
+      "ends": "2026-12-31"
+    },
+    {
+      "campaign_id": "QC-805",
+      "name": "Upgrade a Premium en vuelos largos",
+      "status": "draft",
+      "objective": "Ofrecer upgrade de Economy a Premium en BOG-MAD, MAD-BOG y BOG-JFK, pagable con millas o con Quasar Pay",
+      "channel": "push en la app + email",
+      "budget": 4000.0,
+      "spend": 0.0,
+      "revenue": 0.0,
+      "currency": "USD",
+      "starts": null,
+      "ends": null
+    }
+  ]
+}

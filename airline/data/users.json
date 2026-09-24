@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "user_id": "demo-user",
+      "display_name": "Valentina Ríos",
+      "loyalty_tier": "Quasar Gold",
+      "default_location": "Bogotá (BOG)",
+      "preferences": {
+        "travel_pattern": "viaja a Miami por trabajo casi cada mes y hace un viaje largo al año a Madrid",
+        "seat": "pasillo, lo más adelante posible",
+        "cabin": "Economy en vuelos cortos; Premium en vuelos largos si la diferencia es razonable",
+        "baggage": "casi siempre documenta una maleta",
+        "payments": "paga con su tarjeta Quasar Visa Gold y usa cuotas sin interés",
+        "style": "valora su tiempo: embarque prioritario y sala VIP cuando puede"
+      }
+    },
+    {
+      "user_id": "demo-user-2",
+      "display_name": "Mateo Salazar",
+      "loyalty_tier": "Quasar Blue",
+      "default_location": "Medellín (MDE)",
+      "preferences": {
+        "context": "planea un viaje a Madrid en octubre con su pareja",
+        "budget": "sensible al precio; compara opciones antes de comprar",
+        "payments": "no tiene tarjeta Quasar; paga con tarjeta débito",
+        "goal": "quiere empezar a acumular millas para volar en Business algún día"
+      }
+    }
+  ]
+}

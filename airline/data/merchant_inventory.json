@@ -1,0 +1,397 @@
+{
+  "items": [
+    {
+      "product_id": "QA-0226-ECO",
+      "stock": 34,
+      "threshold": 12,
+      "sales_last_30d": 142,
+      "unit_cost": 49.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0226-PRE",
+      "stock": 8,
+      "threshold": 6,
+      "sales_last_30d": 22,
+      "unit_cost": 78.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0226-BUS",
+      "stock": 5,
+      "threshold": 4,
+      "sales_last_30d": 14,
+      "unit_cost": 131.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0412-ECO",
+      "stock": 41,
+      "threshold": 12,
+      "sales_last_30d": 118,
+      "unit_cost": 179.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0412-PRE",
+      "stock": 3,
+      "threshold": 6,
+      "sales_last_30d": 25,
+      "unit_cost": 298.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0412-BUS",
+      "stock": 6,
+      "threshold": 4,
+      "sales_last_30d": 11,
+      "unit_cost": 654.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0418-ECO",
+      "stock": 52,
+      "threshold": 12,
+      "sales_last_30d": 104,
+      "unit_cost": 162.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0418-PRE",
+      "stock": 11,
+      "threshold": 6,
+      "sales_last_30d": 18,
+      "unit_cost": 283.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0418-BUS",
+      "stock": 0,
+      "threshold": 4,
+      "sales_last_30d": 12,
+      "unit_cost": 614.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0415-ECO",
+      "stock": 58,
+      "threshold": 12,
+      "sales_last_30d": 96,
+      "unit_cost": 172.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0415-PRE",
+      "stock": 10,
+      "threshold": 6,
+      "sales_last_30d": 16,
+      "unit_cost": 290.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0415-BUS",
+      "stock": 7,
+      "threshold": 4,
+      "sales_last_30d": 10,
+      "unit_cost": 634.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0615-ECO",
+      "stock": 64,
+      "threshold": 12,
+      "sales_last_30d": 131,
+      "unit_cost": 434.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0615-PRE",
+      "stock": 12,
+      "threshold": 6,
+      "sales_last_30d": 19,
+      "unit_cost": 726.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0615-BUS",
+      "stock": 2,
+      "threshold": 4,
+      "sales_last_30d": 22,
+      "unit_cost": 1705.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0507-ECO",
+      "stock": 124,
+      "threshold": 12,
+      "sales_last_30d": 29,
+      "unit_cost": 131.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0507-PRE",
+      "stock": 21,
+      "threshold": 6,
+      "sales_last_30d": 5,
+      "unit_cost": 233.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0507-BUS",
+      "stock": 5,
+      "threshold": 4,
+      "sales_last_30d": 6,
+      "unit_cost": 543.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0616-ECO",
+      "stock": 96,
+      "threshold": 12,
+      "sales_last_30d": 102,
+      "unit_cost": 453.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0616-PRE",
+      "stock": 15,
+      "threshold": 6,
+      "sales_last_30d": 16,
+      "unit_cost": 769.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0616-BUS",
+      "stock": 11,
+      "threshold": 4,
+      "sales_last_30d": 12,
+      "unit_cost": 1800.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0331-ECO",
+      "stock": 88,
+      "threshold": 12,
+      "sales_last_30d": 97,
+      "unit_cost": 201.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0331-PRE",
+      "stock": 14,
+      "threshold": 6,
+      "sales_last_30d": 13,
+      "unit_cost": 328.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0331-BUS",
+      "stock": 8,
+      "threshold": 4,
+      "sales_last_30d": 8,
+      "unit_cost": 726.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0720-ECO",
+      "stock": 112,
+      "threshold": 12,
+      "sales_last_30d": 148,
+      "unit_cost": 280.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0720-PRE",
+      "stock": 16,
+      "threshold": 6,
+      "sales_last_30d": 17,
+      "unit_cost": 481.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-0720-BUS",
+      "stock": 14,
+      "threshold": 4,
+      "sales_last_30d": 13,
+      "unit_cost": 1134.0,
+      "content_quality": "good",
+      "missing_attributes": []
+    }
+  ],
+  "service_content": [
+    {
+      "product_id": "QA-ANC-101",
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-ANC-102",
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-ANC-110",
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-ANC-120",
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-ANC-130",
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-ANC-140",
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-ANC-150",
+      "content_quality": "needs_work",
+      "missing_attributes": [
+        "weight_limit_kg",
+        "carrier_dimensions",
+        "breeds_excluded"
+      ]
+    },
+    {
+      "product_id": "QA-ANC-160",
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-CARD-100",
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-MIL-200",
+      "content_quality": "good",
+      "missing_attributes": []
+    },
+    {
+      "product_id": "QA-INS-300",
+      "content_quality": "needs_work",
+      "missing_attributes": [
+        "exclusions_summary"
+      ]
+    },
+    {
+      "product_id": "QA-PAY-400",
+      "content_quality": "good",
+      "missing_attributes": []
+    }
+  ],
+  "ancillary_sales": [
+    {
+      "product_id": "QA-ANC-101",
+      "sales_last_30d": 10710,
+      "unit_cost": 9.5
+    },
+    {
+      "product_id": "QA-ANC-102",
+      "sales_last_30d": 1570,
+      "unit_cost": 14.0
+    },
+    {
+      "product_id": "QA-ANC-110-STD",
+      "sales_last_30d": 5710,
+      "unit_cost": 1.2
+    },
+    {
+      "product_id": "QA-ANC-110-EXT",
+      "sales_last_30d": 2680,
+      "unit_cost": 4.8
+    },
+    {
+      "product_id": "QA-ANC-110-FRT",
+      "sales_last_30d": 1460,
+      "unit_cost": 5.5
+    },
+    {
+      "product_id": "QA-ANC-120",
+      "sales_last_30d": 3030,
+      "unit_cost": 2.1
+    },
+    {
+      "product_id": "QA-ANC-130",
+      "sales_last_30d": 1340,
+      "unit_cost": 21.5
+    },
+    {
+      "product_id": "QA-ANC-140",
+      "sales_last_30d": 3380,
+      "unit_cost": 6.8
+    },
+    {
+      "product_id": "QA-ANC-150",
+      "sales_last_30d": 240,
+      "unit_cost": 28.0
+    },
+    {
+      "product_id": "QA-ANC-160",
+      "sales_last_30d": 1220,
+      "unit_cost": 7.4
+    },
+    {
+      "product_id": "QA-MIL-200-5K",
+      "sales_last_30d": 860,
+      "unit_cost": 38.0
+    },
+    {
+      "product_id": "QA-MIL-200-10K",
+      "sales_last_30d": 480,
+      "unit_cost": 76.0
+    },
+    {
+      "product_id": "QA-MIL-200-25K",
+      "sales_last_30d": 110,
+      "unit_cost": 190.0
+    },
+    {
+      "product_id": "QA-INS-300-BASIC",
+      "sales_last_30d": 3380,
+      "unit_cost": 12.6
+    },
+    {
+      "product_id": "QA-INS-300-PLUS",
+      "sales_last_30d": 1760,
+      "unit_cost": 27.3
+    },
+    {
+      "product_id": "QA-INS-300-PREMIUM",
+      "sales_last_30d": 655,
+      "unit_cost": 48.3
+    }
+  ]
+}

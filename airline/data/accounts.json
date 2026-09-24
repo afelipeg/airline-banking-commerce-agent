@@ -1,0 +1,71 @@
+{
+  "_comment": "Per-customer account state behind get_account_context and the credit engine: loyalty, the card held, the credit-bureau file, and the application draft that prefills the storefront form. Fictional people and figures.",
+  "accounts": {
+    "demo-user": {
+      "loyalty": {
+        "program": "Quasar Miles",
+        "tier": "Gold",
+        "miles_balance": 42300,
+        "miles_expiring": {"miles": 3500, "on": "2026-12-31"}
+      },
+      "card": {
+        "product_id": "QA-CARD-100-GOLD",
+        "tier": "gold",
+        "credit_limit_usd": 6000,
+        "available_usd": 4150
+      },
+      "preapproved_upgrade": ["platinum"],
+      "upcoming_trip_paid_with_card": true,
+      "bureau": {
+        "score_band": "excellent",
+        "delinquencies_24m": 0,
+        "utilization_pct": 31,
+        "open_credit_lines": 3
+      },
+      "application_draft": {
+        "employment_status": "employed",
+        "employer_description": "Gerente comercial en una empresa de logística",
+        "employment_months": 74,
+        "monthly_income_usd": 7800,
+        "monthly_obligations_usd": 1900,
+        "housing": "mortgage",
+        "trips_per_year": 14,
+        "usual_routes": "BOG-MIA, BOG-MAD",
+        "annual_travel_spend_usd": 9500,
+        "preferred_cabin": "premium",
+        "goal": "Acceso ilimitado a sala VIP y más millas por mis viajes de trabajo",
+        "birth_year": 1987
+      }
+    },
+    "demo-user-2": {
+      "loyalty": {
+        "program": "Quasar Miles",
+        "tier": "Blue",
+        "miles_balance": 3200,
+        "miles_expiring": null
+      },
+      "card": null,
+      "preapproved_upgrade": [],
+      "bureau": {
+        "score_band": "good",
+        "delinquencies_24m": 0,
+        "utilization_pct": 28,
+        "open_credit_lines": 2
+      },
+      "application_draft": {
+        "employment_status": "employed",
+        "employer_description": "Diseñador de producto en una empresa de software",
+        "employment_months": 38,
+        "monthly_income_usd": 3200,
+        "monthly_obligations_usd": 700,
+        "housing": "rent",
+        "trips_per_year": 4,
+        "usual_routes": "MDE-BOG, BOG-MAD",
+        "annual_travel_spend_usd": 3000,
+        "preferred_cabin": "economy",
+        "goal": "Empezar a acumular millas y viajar a Madrid en octubre con mi pareja",
+        "birth_year": 1994
+      }
+    }
+  }
+}
